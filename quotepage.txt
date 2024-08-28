@@ -1,0 +1,2730 @@
+<!DOCTYPE html>
+<html class="desktop withSiteHeaderTopFullImage">
+ <head>
+  <title>
+   Arthur Schopenhauer Quotes  (Author of The Art of Always Being Right) (page 3 of 50)
+  </title>
+  <meta content="1473 quotes from Arthur Schopenhauer: 'Faith is like love: it does not let itself be forced.', 'If we suspect that a man is lying, we should pretend to believe him; for then he becomes bold and assured, lies more vigorously, and is unmasked.', and 'A man finds himself, to his great astonishment, suddenly existing, after thousands and thousands of years of non-existence: he lives for a little while; and then, again, comes an equally long period when he must exist no more. The heart rebels against this, and feels that it cannot be true.'" name="description"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <link href="https://www.goodreads.com/author/quotes/11682.Arthur_Schopenhauer" rel="canonical"/>
+  <script type="text/javascript">
+   var ue_t0=window.ue_t0||+new Date();
+  </script>
+  <script type="text/javascript">
+   var ue_mid = "A1PQBFHBHS6YH1";
+    var ue_sn = "www.goodreads.com";
+    var ue_furl = "fls-na.amazon.com";
+    var ue_sid = "489-9372340-6203261";
+    var ue_id = "20SG3EMP8FNT0V14BEC7";
+
+    (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+
+    if (window.ue && window.ue.tag) { window.ue.tag('author:quotes:signed_out', ue.main_scope);window.ue.tag('author:quotes:signed_out:desktop', ue.main_scope); }
+  </script>
+  <!-- * Copied from https://info.analytics.a2z.com/#/docs/data_collection/csa/onboard */ -->
+  <script>
+   //<![CDATA[
+    !function(){function n(n,t){var r=i(n);return t&&(r=r("instance",t)),r}var r=[],c=0,i=function(t){return function(){var n=c++;return r.push([t,[].slice.call(arguments,0),n,{time:Date.now()}]),i(n)}};n._s=r,this.csa=n}();
+    
+    if (window.csa) {
+      window.csa("Config", {
+        "Application": "GoodreadsMonolith",
+        "Events.SushiEndpoint": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod",
+        "Events.Namespace": "csa",
+        "CacheDetection.RequestID": "20SG3EMP8FNT0V14BEC7",
+        "ObfuscatedMarketplaceId": "A1PQBFHBHS6YH1"
+      });
+    
+      window.csa("Events")("setEntity", {
+        session: { id: "489-9372340-6203261" },
+        page: {requestId: "20SG3EMP8FNT0V14BEC7", meaningful: "interactive"}
+      });
+    }
+    
+    var e = document.createElement("script"); e.src = "https://m.media-amazon.com/images/I/41mrkPcyPwL.js"; document.head.appendChild(e);
+  //]]>
+  </script>
+  <script type="text/javascript">
+   if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+  </script>
+  <script src="https://s.gr-assets.com/assets/webfontloader-f0d95107f593df01d332dddc54e598cb.js">
+  </script>
+  <script>
+   //<![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["https://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]>
+  </script>
+  <link href="https://s.gr-assets.com/assets/goodreads-a345fa4d3710ed0ac04bd0d4edd6ce96.css" media="all" rel="stylesheet">
+   <link href="https://s.gr-assets.com/assets/common_images-f5630939f2056b14f661a80fa8503dca.css" media="screen" rel="stylesheet"/>
+   <script src="https://s.gr-assets.com/assets/desktop/libraries-c07ee2e4be9ade4a64546b3ec60b523b.js">
+   </script>
+   <script src="https://s.gr-assets.com/assets/application-55943a2c7db6137eea1ba3fdc8df0621.js">
+   </script>
+   <script>
+    //<![CDATA[
+    var gptAdSlots = gptAdSlots || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//securepubads.g.doubleclick.net/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+  //]]>
+   </script>
+   <script>
+    //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "osid.36173a1c079f542b4e676b7f50872408");
+    googletag.pubads().setTargeting("grsession", "osid.36173a1c079f542b4e676b7f50872408");
+    googletag.pubads().setTargeting("surface", "desktop");
+    googletag.pubads().setTargeting("signedin", "false");
+    googletag.pubads().setTargeting("gr_author", "false");
+    googletag.pubads().setTargeting("author", [11682]);
+    googletag.pubads().setTargeting("shelf", ["toread","philosophy","currentlyreading","nonfiction","favorites","nonfiction","classics","owned","german","filosofia"]);
+    googletag.pubads().setTargeting("tags", ["2","128","3","5","10","8","24","215","54","738"]);
+    googletag.pubads().setTargeting("gtargeting", "s27u251d");
+      googletag.pubads().enableAsyncRendering();
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs(true);
+      googletag.pubads().disableInitialLoad();
+      googletag.enableServices();
+    });
+  //]]>
+   </script>
+   <script>
+    //<![CDATA[
+    ! function(a9, a, p, s, t, A, g) {
+      if (a[a9]) return;
+    
+      function q(c, r) {
+        a[a9]._Q.push([c, r])
+      }
+      a[a9] = {
+      init: function() {
+        q("i", arguments)
+      },
+      fetchBids: function() {
+        q("f", arguments)
+      },
+      setDisplayBids: function() {},
+        _Q: []
+      };
+      A = p.createElement(s);
+      A.async = !0;
+      A.src = t;
+      g = p.getElementsByTagName(s)[0];
+      g.parentNode.insertBefore(A, g)
+    }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+    
+    apstag.init({
+      pubID: '3211', adServer: 'googletag', bidTimeout: 4e3, deals: true, params: { aps_privacy: '1YN' }
+    });
+  //]]>
+   </script>
+   <meta content="authenticity_token" name="csrf-param">
+    <meta content="yHJYOIiUex6bgMwNkj1Cd4dZfSnsCS/V1kbNubd+VUew/p3RX3u8nNkWqPsqa9/SyEO8kCw9vTOWk1KUgMzzxQ==" name="csrf-token">
+     <meta content="20SG3EMP8FNT0V14BEC7" name="request-id"/>
+     <script defer="defer" src="https://s.gr-assets.com/assets/react_client_side/external_dependencies-2e2b90fafc.js">
+     </script>
+     <script defer="defer" src="https://s.gr-assets.com/assets/react_client_side/site_header-d3646670f3.js">
+     </script>
+     <script defer="defer" src="https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js">
+     </script>
+     <link href="/opensearch.xml" rel="search" title="Goodreads" type="application/opensearchdescription+xml"/>
+     <meta content="1473 quotes from Arthur Schopenhauer: 'Faith is like love: it does not let itself be forced.', 'If we suspect that a man is lying, we should pretend to believe him; for then he becomes bold and assured, lies more vigorously, and is unmasked.', and 'A man finds himself, to his great astonishment, suddenly existing, after thousands and thousands of years of non-existence: he lives for a little while; and then, again, comes an equally long period when he must exist no more. The heart rebels against this, and feels that it cannot be true.'" name="description"/>
+     <meta content="summary" name="twitter:card"/>
+     <meta content="@goodreads" name="twitter:site"/>
+     <meta content="Arthur Schopenhauer Quotes  (Author of The Art of Always Being Right) (page 3 of 50)" name="twitter:title"/>
+     <meta content="1473 quotes from Arthur Schopenhauer: 'Faith is like love: it does not let itself be forced.', 'If we suspect that a man is lying, we should pretend to believe him; for then he becomes bold and assured, lies more vigorously, and is unmasked.', and 'A man finds himself, to his great astonishment, suddenly existing, after thousands and thousands of years of non-existence: he lives for a little while; and then, again, comes an equally long period when he must exist no more. The heart rebels against this, and feels that it cannot be true.'" name="twitter:description"/>
+     <meta content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" name="verify-v1"/>
+     <meta content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" name="google-site-verification">
+      <meta content="app-id=355833469" name="apple-itunes-app"/>
+     </meta>
+    </meta>
+   </meta>
+  </link>
+ </head>
+ <body class="">
+  <div data-react-class="ReactComponents.StoresInitializer" data-react-props="{}">
+   <noscript data-react-checksum="-1744760806" data-reactid=".53mbl11902">
+   </noscript>
+  </div>
+  <script src="https://s.gr-assets.com/assets/fb_dep_form-e2e4a0d9dc062011458143c32b2d789b.js">
+  </script>
+  <div class="content" id="bodycontainer" style="">
+   <script>
+    //<![CDATA[
+    var initializeGrfb = function() {
+      $grfb.initialize({
+        appId: "2415071772"
+      });
+    };
+    if (typeof $grfb !== "undefined") {
+      initializeGrfb();
+    } else {
+      window.addEventListener("DOMContentLoaded", function() {
+        if (typeof $grfb !== "undefined") {
+          initializeGrfb();
+        }
+      });
+    }
+  //]]>
+   </script>
+   <script>
+    //<![CDATA[
+    function loadScript(url, callback) {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+    
+      if (script.readyState) {  //Internet Explorer
+          script.onreadystatechange = function() {
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete") {
+              script.onreadystatechange = null;
+              callback();
+            }
+          };
+      } else {  //Other browsers
+        script.onload = function() {
+          callback();
+        };
+      }
+    
+      script.src = url;
+      document.getElementsByTagName("head")[0].appendChild(script);
+    }
+    
+    function initAppleId() {
+      AppleID.auth.init({
+        clientId : 'com.goodreads.app', 
+        scope : 'name email',
+        redirectURI: 'https://www.goodreads.com/apple_users/sign_in_with_apple_web',
+        state: 'apple_oauth_state_bf1569db-be46-4447-9ed6-eb48aa6b3a1e'
+      });
+    }
+    
+    var initializeSiwa = function() {
+      var APPLE_SIGN_IN_JS_URL =  "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"
+      loadScript(APPLE_SIGN_IN_JS_URL, initAppleId);
+    };
+    if (typeof AppleID !== "undefined") {
+      initAppleId();
+    } else {
+      initializeSiwa();
+    }
+  //]]>
+   </script>
+   <div class="siteHeader">
+    <div data-react-class="ReactComponents.HeaderStoreConnector" data-react-props="{&quot;myBooksUrl&quot;:&quot;/review/list?ref=nav_mybooks&quot;,&quot;browseUrl&quot;:&quot;/book?ref=nav_brws&quot;,&quot;recommendationsUrl&quot;:&quot;/recommendations?ref=nav_brws_recs&quot;,&quot;choiceAwardsUrl&quot;:&quot;/choiceawards?ref=nav_brws_gca&quot;,&quot;genresIndexUrl&quot;:&quot;/genres?ref=nav_brws_genres&quot;,&quot;giveawayUrl&quot;:&quot;/giveaway?ref=nav_brws_giveaways&quot;,&quot;exploreUrl&quot;:&quot;/book?ref=nav_brws_explore&quot;,&quot;homeUrl&quot;:&quot;/?ref=nav_home&quot;,&quot;listUrl&quot;:&quot;/list?ref=nav_brws_lists&quot;,&quot;newsUrl&quot;:&quot;/news?ref=nav_brws_news&quot;,&quot;communityUrl&quot;:&quot;/group?ref=nav_comm&quot;,&quot;groupsUrl&quot;:&quot;/group?ref=nav_comm_groups&quot;,&quot;quotesUrl&quot;:&quot;/quotes?ref=nav_comm_quotes&quot;,&quot;featuredAskAuthorUrl&quot;:&quot;/ask_the_author?ref=nav_comm_askauthor&quot;,&quot;autocompleteUrl&quot;:&quot;/book/auto_complete&quot;,&quot;defaultLogoActionUrl&quot;:&quot;/&quot;,&quot;topFullImage&quot;:{&quot;clickthroughUrl&quot;:&quot;https://www.goodreads.com/blog/show/2783-readers-most-anticipated-books-of-fall?ref=BigBooksFall24_eb&quot;,&quot;altText&quot;:&quot;Readers' Most Anticipated Fall Books&quot;,&quot;backgroundColor&quot;:&quot;#E18B79&quot;,&quot;xs&quot;:{&quot;1x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1722529902i/427.jpg&quot;,&quot;2x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1722529908i/428.jpg&quot;},&quot;md&quot;:{&quot;1x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1722529892i/425.jpg&quot;,&quot;2x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1722529897i/426.jpg&quot;}},&quot;logo&quot;:{&quot;clickthroughUrl&quot;:&quot;/&quot;,&quot;altText&quot;:&quot;Goodreads Home&quot;},&quot;searchPath&quot;:&quot;/search&quot;,&quot;newReleasesUrl&quot;:&quot;/book/popular_by_date/2024/8?ref=nav_brws_newrels&quot;,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;signInWithReturnUrl&quot;:true,&quot;deployServices&quot;:[],&quot;defaultLogoAltText&quot;:&quot;Goodreads Home&quot;,&quot;mobviousDeviceType&quot;:&quot;desktop&quot;}">
+     <header data-react-checksum="-1735433806" data-reactid=".tx998d1p9i">
+      <div class="siteHeader__topFullImageContainer" data-reactid=".tx998d1p9i.0" style="background-color:#E18B79;">
+       <a class="siteHeader__topFullImageLink" data-reactid=".tx998d1p9i.0.0" href="https://www.goodreads.com/blog/show/2783-readers-most-anticipated-books-of-fall?ref=BigBooksFall24_eb">
+        <picture data-reactid=".tx998d1p9i.0.0.0">
+         <source data-reactid=".tx998d1p9i.0.0.0.0" media="(min-width: 768px)" srcset="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1722529892i/425.jpg 1x, https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1722529897i/426.jpg 2x"/>
+         <img alt="Readers' Most Anticipated Fall Books" class="siteHeader__topFullImage" data-reactid=".tx998d1p9i.0.0.0.1" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1722529902i/427.jpg" srcset="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1722529908i/428.jpg 2x"/>
+        </picture>
+       </a>
+      </div>
+      <div class="siteHeader__topLine gr-box gr-box--withShadow" data-reactid=".tx998d1p9i.1">
+       <div class="siteHeader__contents" data-reactid=".tx998d1p9i.1.0">
+        <div class="siteHeader__topLevelItem siteHeader__topLevelItem--searchIcon" data-reactid=".tx998d1p9i.1.0.0">
+         <button aria-label="Toggle search" class="siteHeader__searchIcon gr-iconButton" data-reactid=".tx998d1p9i.1.0.0.0" data-ux-click="true" type="button">
+         </button>
+        </div>
+        <a aria-label="Goodreads Home" class="siteHeader__logo" data-reactid=".tx998d1p9i.1.0.1" href="/" title="Goodreads Home">
+        </a>
+        <nav class="siteHeader__primaryNavInline" data-reactid=".tx998d1p9i.1.0.2">
+         <ul class="siteHeader__menuList" data-reactid=".tx998d1p9i.1.0.2.0" role="menu">
+          <li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".tx998d1p9i.1.0.2.0.0">
+           <a class="siteHeader__topLevelLink" data-reactid=".tx998d1p9i.1.0.2.0.0.0" href="/?ref=nav_home">
+            Home
+           </a>
+          </li>
+          <li class="siteHeader__topLevelItem" data-reactid=".tx998d1p9i.1.0.2.0.1">
+           <a class="siteHeader__topLevelLink" data-reactid=".tx998d1p9i.1.0.2.0.1.0" href="/review/list?ref=nav_mybooks">
+            My Books
+           </a>
+          </li>
+          <li class="siteHeader__topLevelItem" data-reactid=".tx998d1p9i.1.0.2.0.2">
+           <div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".tx998d1p9i.1.0.2.0.2.0">
+            <a aria-expanded="false" aria-haspopup="true" class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" data-reactid=".tx998d1p9i.1.0.2.0.2.0.0" data-ux-click="true" href="/book?ref=nav_brws" role="button">
+             <span data-reactid=".tx998d1p9i.1.0.2.0.2.0.0.0">
+              Browse ▾
+             </span>
+            </a>
+            <div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1" role="menu">
+             <div class="siteHeader__browseMenuDropdown" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0">
+              <ul class="siteHeader__subNav" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0">
+               <li aria-label="Recommendations" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.0" role="menuitem Recommendations">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.0.0" href="/recommendations?ref=nav_brws_recs">
+                 Recommendations
+                </a>
+               </li>
+               <li aria-label="Choice Awards" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.1" role="menuitem Choice Awards">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.1.0" href="/choiceawards?ref=nav_brws_gca">
+                 Choice Awards
+                </a>
+               </li>
+               <li aria-label="Genres" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.2" role="menuitem Genres">
+                <a class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.2.0" href="/genres?ref=nav_brws_genres">
+                 Genres
+                </a>
+               </li>
+               <li aria-label="Giveaways" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.3" role="menuitem Giveaways">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.3.0" href="/giveaway?ref=nav_brws_giveaways">
+                 Giveaways
+                </a>
+               </li>
+               <li aria-label="New Releases" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.4" role="menuitem New Releases">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.4.0" href="/book/popular_by_date/2024/8?ref=nav_brws_newrels">
+                 New Releases
+                </a>
+               </li>
+               <li aria-label="Lists" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.5" role="menuitem Lists">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.5.0" href="/list?ref=nav_brws_lists">
+                 Lists
+                </a>
+               </li>
+               <li aria-label="Explore" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.6" role="menuitem Explore">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.6.0" href="/book?ref=nav_brws_explore">
+                 Explore
+                </a>
+               </li>
+               <li aria-label="News &amp; Interviews" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.7" role="menuitem News &amp; Interviews">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.0.7.0" href="/news?ref=nav_brws_news">
+                 News &amp; Interviews
+                </a>
+               </li>
+              </ul>
+              <div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1">
+               <div class="genreListContainer" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0">
+                <div class="siteHeader__heading siteHeader__title" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.0">
+                 Genres
+                </div>
+                <ul class="genreList" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0">
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0" href="/genres/art">
+                   Art
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0" href="/genres/biography">
+                   Biography
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0" href="/genres/business">
+                   Business
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children's" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children's.0" href="/genres/children-s">
+                   Children's
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0" href="/genres/christian">
+                   Christian
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0" href="/genres/classics">
+                   Classics
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0" href="/genres/comics">
+                   Comics
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0" href="/genres/cookbooks">
+                   Cookbooks
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0" href="/genres/ebooks">
+                   Ebooks
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0" href="/genres/fantasy">
+                   Fantasy
+                  </a>
+                 </li>
+                </ul>
+                <ul class="genreList" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1">
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0" href="/genres/fiction">
+                   Fiction
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0" href="/genres/graphic-novels">
+                   Graphic Novels
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0" href="/genres/historical-fiction">
+                   Historical Fiction
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History.0" href="/genres/history">
+                   History
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0" href="/genres/horror">
+                   Horror
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0" href="/genres/memoir">
+                   Memoir
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0" href="/genres/music">
+                   Music
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0" href="/genres/mystery">
+                   Mystery
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0" href="/genres/non-fiction">
+                   Nonfiction
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0" href="/genres/poetry">
+                   Poetry
+                  </a>
+                 </li>
+                </ul>
+                <ul class="genreList" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2">
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0" href="/genres/psychology">
+                   Psychology
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0" href="/genres/romance">
+                   Romance
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0" href="/genres/science">
+                   Science
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0" href="/genres/science-fiction">
+                   Science Fiction
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0" href="/genres/self-help">
+                   Self Help
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0" href="/genres/sports">
+                   Sports
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0" href="/genres/thriller">
+                   Thriller
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0" href="/genres/travel">
+                   Travel
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0" href="/genres/young-adult">
+                   Young Adult
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1.0" href="/genres">
+                   More Genres
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".tx998d1p9i.1.0.2.0.3">
+           <div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".tx998d1p9i.1.0.2.0.3.0">
+            <a aria-expanded="false" aria-haspopup="true" class="primaryNavMenu__trigger" data-reactid=".tx998d1p9i.1.0.2.0.3.0.0" data-ux-click="true" href="/group?ref=nav_comm" role="button">
+             <span data-reactid=".tx998d1p9i.1.0.2.0.3.0.0.0">
+              Community ▾
+             </span>
+            </a>
+            <div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" data-reactid=".tx998d1p9i.1.0.2.0.3.0.1" role="menu">
+             <ul class="siteHeader__subNav" data-reactid=".tx998d1p9i.1.0.2.0.3.0.1.0">
+              <li aria-label="Groups" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.3.0.1.0.0" role="menuitem Groups">
+               <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.3.0.1.0.0.0" href="/group?ref=nav_comm_groups">
+                Groups
+               </a>
+              </li>
+              <li aria-label="Quotes" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.3.0.1.0.2" role="menuitem Quotes">
+               <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.3.0.1.0.2.0" href="/quotes?ref=nav_comm_quotes">
+                Quotes
+               </a>
+              </li>
+              <li aria-label="Ask the Author" class="menuLink" data-reactid=".tx998d1p9i.1.0.2.0.3.0.1.0.3" role="menuitem Ask the Author">
+               <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.2.0.3.0.1.0.3.0" href="/ask_the_author?ref=nav_comm_askauthor">
+                Ask the Author
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </li>
+         </ul>
+        </nav>
+        <div accept-charset="UTF-8" class="searchBox searchBox--navbar" data-reactid=".tx998d1p9i.1.0.3">
+         <form action="/search" aria-label="Search for books to add to your shelves" autocomplete="off" class="searchBox__form" data-reactid=".tx998d1p9i.1.0.3.0" role="search">
+          <input aria-controls="searchResults" aria-label="Search books" autocomplete="off" class="searchBox__input searchBox__input--navbar" data-reactid=".tx998d1p9i.1.0.3.0.0" name="q" placeholder="Search books" type="text"/>
+          <input data-reactid=".tx998d1p9i.1.0.3.0.1" name="qid" type="hidden" value=""/>
+          <button aria-label="Search" class="searchBox__icon--magnifyingGlass gr-iconButton searchBox__icon searchBox__icon--navbar" data-reactid=".tx998d1p9i.1.0.3.0.2" type="submit">
+          </button>
+         </form>
+        </div>
+        <ul class="siteHeader__personal" data-reactid=".tx998d1p9i.1.0.4">
+         <li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".tx998d1p9i.1.0.4.0">
+          <a class="siteHeader__topLevelLink" data-reactid=".tx998d1p9i.1.0.4.0.0" href="/user/sign_in?returnurl=undefined" rel="nofollow">
+           Sign In
+          </a>
+         </li>
+         <li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".tx998d1p9i.1.0.4.1">
+          <a class="siteHeader__topLevelLink" data-reactid=".tx998d1p9i.1.0.4.1.0" href="/user/sign_up" rel="nofollow">
+           Join
+          </a>
+         </li>
+        </ul>
+        <div class="siteHeader__topLevelItem siteHeader__topLevelItem--signUp" data-reactid=".tx998d1p9i.1.0.5">
+         <a class="gr-button gr-button--dark" data-reactid=".tx998d1p9i.1.0.5.0" href="/user/sign_up" rel="nofollow">
+          Sign up
+         </a>
+        </div>
+        <div class="modal modal--overlay modal--drawer" data-reactid=".tx998d1p9i.1.0.7" tabindex="0">
+         <div data-reactid=".tx998d1p9i.1.0.7.0">
+          <div class="modal__close" data-reactid=".tx998d1p9i.1.0.7.0.0">
+           <button class="gr-iconButton" data-reactid=".tx998d1p9i.1.0.7.0.0.0" type="button">
+            <img alt="Dismiss" data-reactid=".tx998d1p9i.1.0.7.0.0.0.0" src="//s.gr-assets.com/assets/gr/icons/icon_close_white-dbf4152deeef5bd3915d5d12210bf05f.svg"/>
+           </button>
+          </div>
+          <div class="modal__content" data-reactid=".tx998d1p9i.1.0.7.0.1">
+           <div class="personalNavDrawer" data-reactid=".tx998d1p9i.1.0.7.0.1.0">
+            <div class="personalNavDrawer__personalNavContainer" data-reactid=".tx998d1p9i.1.0.7.0.1.0.0">
+             <noscript data-reactid=".tx998d1p9i.1.0.7.0.1.0.0.0">
+             </noscript>
+            </div>
+            <div class="personalNavDrawer__profileAndLinksContainer" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1">
+             <div class="personalNavDrawer__profileContainer gr-mediaFlexbox gr-mediaFlexbox--alignItemsCenter" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.0">
+              <div class="gr-mediaFlexbox__media" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.0.0">
+               <img class="circularIcon circularIcon--large circularIcon--border" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.0.0.0"/>
+              </div>
+              <div class="gr-mediaFlexbox__desc" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.0.1">
+               <a class="gr-hyperlink gr-hyperlink--bold" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.0.1.0">
+               </a>
+               <div class="u-displayBlock" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.0.1.1">
+                <a class="gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.0.1.1.0">
+                 View profile
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="personalNavDrawer__profileMenuContainer" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1">
+              <ul data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0">
+               <li aria-label="Profile" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.0" role="menuitem Profile">
+                <span data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.0.0">
+                 <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.0.0.0">
+                  Profile
+                 </a>
+                </span>
+               </li>
+               <li aria-label="Friends" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.3" role="menuitem Friends">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.3.0">
+                 Friends
+                </a>
+               </li>
+               <li aria-label="Groups" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.4" role="menuitem Groups">
+                <span data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.4.0">
+                 <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.4.0.0">
+                  <span data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.4.0.0.0">
+                   Groups
+                  </span>
+                 </a>
+                </span>
+               </li>
+               <li aria-label="Discussions" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.5" role="menuitem Discussions">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.5.0">
+                 Discussions
+                </a>
+               </li>
+               <li aria-label="Comments" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.6" role="menuitem Comments">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.6.0">
+                 Comments
+                </a>
+               </li>
+               <li aria-label="Reading Challenge" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.7" role="menuitem Reading Challenge">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.7.0">
+                 Reading Challenge
+                </a>
+               </li>
+               <li aria-label="Kindle Notes &amp; Highlights" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.8" role="menuitem Kindle Notes &amp; Highlights">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.8.0">
+                 Kindle Notes &amp; Highlights
+                </a>
+               </li>
+               <li aria-label="Quotes" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.9" role="menuitem Quotes">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.9.0">
+                 Quotes
+                </a>
+               </li>
+               <li aria-label="Favorite genres" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.a" role="menuitem Favorite genres">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.a.0">
+                 Favorite genres
+                </a>
+               </li>
+               <li aria-label="Friends' recommendations" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.b" role="menuitem Friends' recommendations">
+                <span data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.b.0">
+                 <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.b.0.0">
+                  <span data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.b.0.0.0">
+                   Friends’ recommendations
+                  </span>
+                 </a>
+                </span>
+               </li>
+               <li aria-label="Account settings" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.c" role="menuitem Account settings">
+                <a class="siteHeader__subNavLink u-topGrayBorder" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.c.0">
+                 Account settings
+                </a>
+               </li>
+               <li aria-label="Help" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.d" role="menuitem Help">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.d.0">
+                 Help
+                </a>
+               </li>
+               <li aria-label="Sign out" class="menuLink" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.e" role="menuitem Sign out">
+                <a class="siteHeader__subNavLink" data-method="POST" data-reactid=".tx998d1p9i.1.0.7.0.1.0.1.1.0.e.0">
+                 Sign out
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="headroom-wrapper" data-reactid=".tx998d1p9i.2">
+       <div class="headroom headroom--unfixed" data-reactid=".tx998d1p9i.2.0" style="position:relative;top:0;left:0;right:0;z-index:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);">
+        <nav class="siteHeader__primaryNavSeparateLine gr-box gr-box--withShadow" data-reactid=".tx998d1p9i.2.0.0">
+         <ul class="siteHeader__menuList" data-reactid=".tx998d1p9i.2.0.0.0" role="menu">
+          <li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".tx998d1p9i.2.0.0.0.0">
+           <a class="siteHeader__topLevelLink" data-reactid=".tx998d1p9i.2.0.0.0.0.0" href="/?ref=nav_home">
+            Home
+           </a>
+          </li>
+          <li class="siteHeader__topLevelItem" data-reactid=".tx998d1p9i.2.0.0.0.1">
+           <a class="siteHeader__topLevelLink" data-reactid=".tx998d1p9i.2.0.0.0.1.0" href="/review/list?ref=nav_mybooks">
+            My Books
+           </a>
+          </li>
+          <li class="siteHeader__topLevelItem" data-reactid=".tx998d1p9i.2.0.0.0.2">
+           <div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".tx998d1p9i.2.0.0.0.2.0">
+            <a aria-expanded="false" aria-haspopup="true" class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" data-reactid=".tx998d1p9i.2.0.0.0.2.0.0" data-ux-click="true" href="/book?ref=nav_brws" role="button">
+             <span data-reactid=".tx998d1p9i.2.0.0.0.2.0.0.0">
+              Browse ▾
+             </span>
+            </a>
+            <div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1" role="menu">
+             <div class="siteHeader__browseMenuDropdown" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0">
+              <ul class="siteHeader__subNav" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0">
+               <li aria-label="Recommendations" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.0" role="menuitem Recommendations">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.0.0" href="/recommendations?ref=nav_brws_recs">
+                 Recommendations
+                </a>
+               </li>
+               <li aria-label="Choice Awards" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.1" role="menuitem Choice Awards">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.1.0" href="/choiceawards?ref=nav_brws_gca">
+                 Choice Awards
+                </a>
+               </li>
+               <li aria-label="Genres" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.2" role="menuitem Genres">
+                <a class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.2.0" href="/genres?ref=nav_brws_genres">
+                 Genres
+                </a>
+               </li>
+               <li aria-label="Giveaways" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.3" role="menuitem Giveaways">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.3.0" href="/giveaway?ref=nav_brws_giveaways">
+                 Giveaways
+                </a>
+               </li>
+               <li aria-label="New Releases" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.4" role="menuitem New Releases">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.4.0" href="/book/popular_by_date/2024/8?ref=nav_brws_newrels">
+                 New Releases
+                </a>
+               </li>
+               <li aria-label="Lists" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.5" role="menuitem Lists">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.5.0" href="/list?ref=nav_brws_lists">
+                 Lists
+                </a>
+               </li>
+               <li aria-label="Explore" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.6" role="menuitem Explore">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.6.0" href="/book?ref=nav_brws_explore">
+                 Explore
+                </a>
+               </li>
+               <li aria-label="News &amp; Interviews" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.7" role="menuitem News &amp; Interviews">
+                <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.0.7.0" href="/news?ref=nav_brws_news">
+                 News &amp; Interviews
+                </a>
+               </li>
+              </ul>
+              <div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1">
+               <div class="genreListContainer" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0">
+                <div class="siteHeader__heading siteHeader__title" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.0">
+                 Genres
+                </div>
+                <ul class="genreList" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0">
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0" href="/genres/art">
+                   Art
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0" href="/genres/biography">
+                   Biography
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0" href="/genres/business">
+                   Business
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children's" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children's.0" href="/genres/children-s">
+                   Children's
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0" href="/genres/christian">
+                   Christian
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0" href="/genres/classics">
+                   Classics
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0" href="/genres/comics">
+                   Comics
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0" href="/genres/cookbooks">
+                   Cookbooks
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0" href="/genres/ebooks">
+                   Ebooks
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0" href="/genres/fantasy">
+                   Fantasy
+                  </a>
+                 </li>
+                </ul>
+                <ul class="genreList" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1">
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0" href="/genres/fiction">
+                   Fiction
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0" href="/genres/graphic-novels">
+                   Graphic Novels
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0" href="/genres/historical-fiction">
+                   Historical Fiction
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History.0" href="/genres/history">
+                   History
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0" href="/genres/horror">
+                   Horror
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0" href="/genres/memoir">
+                   Memoir
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0" href="/genres/music">
+                   Music
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0" href="/genres/mystery">
+                   Mystery
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0" href="/genres/non-fiction">
+                   Nonfiction
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0" href="/genres/poetry">
+                   Poetry
+                  </a>
+                 </li>
+                </ul>
+                <ul class="genreList" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2">
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0" href="/genres/psychology">
+                   Psychology
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0" href="/genres/romance">
+                   Romance
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0" href="/genres/science">
+                   Science
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0" href="/genres/science-fiction">
+                   Science Fiction
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0" href="/genres/self-help">
+                   Self Help
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0" href="/genres/sports">
+                   Sports
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0" href="/genres/thriller">
+                   Thriller
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0" href="/genres/travel">
+                   Travel
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0" href="/genres/young-adult">
+                   Young Adult
+                  </a>
+                 </li>
+                 <li class="genreList__genre" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1" role="menuitem">
+                  <a class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".tx998d1p9i.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1.0" href="/genres">
+                   More Genres
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".tx998d1p9i.2.0.0.0.3">
+           <div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".tx998d1p9i.2.0.0.0.3.0">
+            <a aria-expanded="false" aria-haspopup="true" class="primaryNavMenu__trigger" data-reactid=".tx998d1p9i.2.0.0.0.3.0.0" data-ux-click="true" href="/group?ref=nav_comm" role="button">
+             <span data-reactid=".tx998d1p9i.2.0.0.0.3.0.0.0">
+              Community ▾
+             </span>
+            </a>
+            <div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" data-reactid=".tx998d1p9i.2.0.0.0.3.0.1" role="menu">
+             <ul class="siteHeader__subNav" data-reactid=".tx998d1p9i.2.0.0.0.3.0.1.0">
+              <li aria-label="Groups" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.3.0.1.0.0" role="menuitem Groups">
+               <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.3.0.1.0.0.0" href="/group?ref=nav_comm_groups">
+                Groups
+               </a>
+              </li>
+              <li aria-label="Quotes" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.3.0.1.0.2" role="menuitem Quotes">
+               <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.3.0.1.0.2.0" href="/quotes?ref=nav_comm_quotes">
+                Quotes
+               </a>
+              </li>
+              <li aria-label="Ask the Author" class="menuLink" data-reactid=".tx998d1p9i.2.0.0.0.3.0.1.0.3" role="menuitem Ask the Author">
+               <a class="siteHeader__subNavLink" data-reactid=".tx998d1p9i.2.0.0.0.3.0.1.0.3.0" href="/ask_the_author?ref=nav_comm_askauthor">
+                Ask the Author
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </header>
+    </div>
+   </div>
+   <div class="siteHeaderBottomSpacer">
+   </div>
+   <div class="mainContentContainer">
+    <div class="mainContent">
+     <div id="premiumAdTop">
+      <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props='{"adId":"","className":"googleBannerAd--pushdown"}'>
+      </div>
+     </div>
+     <div class="mainContentFloat">
+      <div id="flashContainer">
+      </div>
+      <div class="ctaBannerShown">
+       <div class="ctaHeader">
+        Goodreads helps you follow your favorite authors.  Be the first to learn about new releases!
+       </div>
+       <div>
+        Start by following Arthur Schopenhauer.
+       </div>
+       <div class="ctaButton">
+        <a class="button" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fauthor%2Fquotes%2F11682.Arthur_Schopenhauer">
+         Follow Author
+        </a>
+       </div>
+      </div>
+      <div class="ctaBannerTriangle">
+      </div>
+      <div class="leftContainer">
+       <div style="display: flex">
+        <h1>
+         <a class="leftAlignedImage quoteAvatar" href="/author/show/11682.Arthur_Schopenhauer">
+          <img alt="Arthur Schopenhauer" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651440776i/11682._UX200_CR0,24,200,200_.jpg"/>
+         </a>
+         <a href="/author/show/11682.Arthur_Schopenhauer">
+          Arthur Schopenhauer
+         </a>
+         &gt;
+			Quotes
+        </h1>
+        <p>
+        </p>
+        <span>
+         <a aria-label="Quotes Policy Information" class="helpTip" href="#" onclick="Element.toggle('quotesDisclaimer'); return false;">
+          (?)
+         </a>
+         <div class="floatingBox" id="quotesDisclaimer" style="
+   display:none;
+   width: 227px;
+   padding: 14px;
+   margin-top: 14px;
+   margin-left: -113px;
+  ">
+          Quotes are added by the Goodreads community and are not verified by Goodreads.
+          <a aria-label="Quotes Policy Information Learn More" href="https://help.goodreads.com/s/article/Who-can-add-quotes-to-Goodreads">
+           (Learn more)
+          </a>
+         </div>
+        </span>
+       </div>
+       <div class="quotes">
+        <span class="smallText">
+         Showing 61-90 of 1,473
+        </span>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Faith is like love: it does not let itself be forced.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/being-forced">
+             being-forced
+            </a>
+            ,
+            <a href="/quotes/tag/faith">
+             faith
+            </a>
+            ,
+            <a href="/quotes/tag/love">
+             love
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/327297-faith-is-like-love-it-does-not-let-itself-be" title="View this quote">
+             119 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “If we suspect that a man is lying, we should pretend to believe him; for then he becomes bold and assured, lies more vigorously, and is unmasked.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/liars">
+             liars
+            </a>
+            ,
+            <a href="/quotes/tag/lying">
+             lying
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/827870-if-we-suspect-that-a-man-is-lying-we-should" title="View this quote">
+             118 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “A man finds himself, to his great astonishment, suddenly existing, after thousands and thousands of years of non-existence: he lives for a little while; and then, again, comes an equally long period when he must exist no more. The heart rebels against this, and feels that it cannot be true.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/416716-a-man-finds-himself-to-his-great-astonishment-suddenly-existing" title="View this quote">
+             114 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “After your death, you will be what you were before your birth.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/afterlife">
+             afterlife
+            </a>
+            ,
+            <a href="/quotes/tag/birth">
+             birth
+            </a>
+            ,
+            <a href="/quotes/tag/death">
+             death
+            </a>
+            ,
+            <a href="/quotes/tag/life">
+             life
+            </a>
+            ,
+            <a href="/quotes/tag/life-after-death">
+             life-after-death
+            </a>
+            ,
+            <a href="/quotes/tag/metaphysics">
+             metaphysics
+            </a>
+            ,
+            <a href="/quotes/tag/philosophy">
+             philosophy
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/946667-after-your-death-you-will-be-what-you-were-before" title="View this quote">
+             112 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “there are very few who can think, but every man wants to have an opinion; and what remains but to take it ready-made from others, instead of forming opinions for himself?”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_8704075">
+            <a class="authorOrTitle" href="/work/quotes/2715274">
+             The Art of Always Being Right
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/philosophical">
+             philosophical
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/334719-there-are-very-few-who-can-think-but-every-man" title="View this quote">
+             110 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Ordinary people merely think how they shall 'spend' their time; a man of talent tries to 'use' it.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/wisdom">
+             wisdom
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/619795-ordinary-people-merely-think-how-they-shall-spend-their-time" title="View this quote">
+             108 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Men are the devils of the earth, and the animals are the tormented souls.
+           <br/>
+           <br/>
+           -
+           <i>
+            On Religion
+           </i>
+           ”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_6530493">
+            <a class="authorOrTitle" href="/work/quotes/6722504">
+             The Horrors and Absurdities of Religion
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/animal-cruelty">
+             animal-cruelty
+            </a>
+            ,
+            <a href="/quotes/tag/animal-rights">
+             animal-rights
+            </a>
+            ,
+            <a href="/quotes/tag/animal-welfare">
+             animal-welfare
+            </a>
+            ,
+            <a href="/quotes/tag/cruelty">
+             cruelty
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/423573-men-are-the-devils-of-the-earth-and-the-animals" title="View this quote">
+             105 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Reading is thinking with someone else's head instead of ones own.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_11979068">
+            <a class="authorOrTitle" href="/work/quotes/2915246">
+             The Art of Literature
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/art-of-literature">
+             art-of-literature
+            </a>
+            ,
+            <a href="/quotes/tag/reading">
+             reading
+            </a>
+            ,
+            <a href="/quotes/tag/schopenhauer">
+             schopenhauer
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/408340-reading-is-thinking-with-someone-else-s-head-instead-of-ones" title="View this quote">
+             103 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “حماقت بزرگی است که آدمی به منظور برنده شدن در بیرون٬ در درون ببازد.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            آرتور شوپنهاور
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/%D8%AF%D8%B1-%D8%A8%D8%A7%D8%A8-%D8%AD%DA%A9%D9%85%D8%AA-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C">
+             در-باب-حکمت-زندگی
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/216055" title="View this quote">
+             100 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Politeness is to human nature what warmth is to wax. ”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/24095-politeness-is-to-human-nature-what-warmth-is-to-wax" title="View this quote">
+             99 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “He who writes carelessly confesses thereby at the very outset that he does not attach much importance to his own thoughts. ”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/216723-he-who-writes-carelessly-confesses-thereby-at-the-very-outset" title="View this quote">
+             99 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Man can do what he wills but he cannot will what he wills.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/1008775-man-can-do-what-he-wills-but-he-cannot-will" title="View this quote">
+             97 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “To be alone is the fate of all great minds—a fate deplored at times, but still always chosen as the less grievous of two evils.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/682445-to-be-alone-is-the-fate-of-all-great-minds-a" title="View this quote">
+             92 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “It often happens that we blurt out things that may in some kind of way be harmful to us, but we are silent about things that may make us look ridiculous; because in this case effect follows very quickly on cause.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/humor">
+             humor
+            </a>
+            ,
+            <a href="/quotes/tag/schopenhauer">
+             schopenhauer
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/5404-it-often-happens-that-we-blurt-out-things-that-may" title="View this quote">
+             91 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “If life — the craving for which is the very essence of our being — were possessed of any positive intrinsic value, there would be no such thing as boredom at all: mere existence would satisfy us in itself, and we should want for nothing.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_11734202">
+            <a class="authorOrTitle" href="/work/quotes/16683125">
+             The Vanity of Existence
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/boredom">
+             boredom
+            </a>
+            ,
+            <a href="/quotes/tag/existence">
+             existence
+            </a>
+            ,
+            <a href="/quotes/tag/life">
+             life
+            </a>
+            ,
+            <a href="/quotes/tag/value">
+             value
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/323234-if-life-the-craving-for-which-is-the-very" title="View this quote">
+             90 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “The business of the novelist is not to relate great events, but to make small ones interesting.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_801695">
+            <a class="authorOrTitle" href="/work/quotes/97750423">
+             The Works of Schopenhauer: The Wisdom of Life and Other Essays
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/literary-theory">
+             literary-theory
+            </a>
+            ,
+            <a href="/quotes/tag/writing-craft">
+             writing-craft
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/48741-the-business-of-the-novelist-is-not-to-relate-great" title="View this quote">
+             90 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “There is only one inborn error, and that is the notion that we exist in order to be happy... So long as we persist in this inborn error... the world seems to us full of contradictions. For at every step, in things great and small, we are bound to experience that the world and life are certainly not arranged for the purpose of maintaining a happy existence... hence the countenances of almost all elderly persons wear the expression of what is called disappointment.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/life">
+             life
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/8097265-there-is-only-one-inborn-error-and-that-is-the" title="View this quote">
+             90 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “There is not much to be got anywhere in the world. It is filled with misery and pain; if a man escapes these, boredeom lies in wait for him at every corner. Nay more; it is evil which generally has the upper hand, and folly that makes the most noise. Fate is cruel and mankind pitiable.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_21182">
+            <a class="authorOrTitle" href="/work/quotes/66924545">
+             The Wisdom of Life
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/pessimism">
+             pessimism
+            </a>
+            ,
+            <a href="/quotes/tag/philosophy">
+             philosophy
+            </a>
+            ,
+            <a href="/quotes/tag/schopenhauer">
+             schopenhauer
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/476426-there-is-not-much-to-be-got-anywhere-in-the" title="View this quote">
+             88 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “What a person is for himself, what abides with him in his loneliness and isolation, and what no one can give or take away from him, this is obviously more essential for him than everything that he possesses or what he may be in the eyes of others...”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/219626-what-a-person-is-for-himself-what-abides-with-him" title="View this quote">
+             86 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “There is some wisdom in taking a gloomy view, in looking upon the world as a kind of Hell, and in confining one's efforts to securing a little room that shall not be exposed to the fire.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_52075">
+            <a class="authorOrTitle" href="/work/quotes/87009529">
+             The Wisdom of Life and Counsels and Maxims
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/420146-there-is-some-wisdom-in-taking-a-gloomy-view-in" title="View this quote">
+             85 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Rascals are always sociable, and the chief sign that a man has any nobility in his character is the little pleasure he takes in others company.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/character">
+             character
+            </a>
+            ,
+            <a href="/quotes/tag/nobility">
+             nobility
+            </a>
+            ,
+            <a href="/quotes/tag/rascals">
+             rascals
+            </a>
+            ,
+            <a href="/quotes/tag/social">
+             social
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/369010-rascals-are-always-sociable-and-the-chief-sign-that-a" title="View this quote">
+             82 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “If the world were a paradise of luxury and ease, a land flowing with milk and honey, where every Jack obtained his Jill at once and without any difficulty, men would either die of boredom or hang themselves; or there would be wars, massacres, and murders; so that in the end mankind would inflict more suffering on itself than it has now to accept at the hands of Nature.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_7672405">
+            <a class="authorOrTitle" href="/work/quotes/2568404">
+             Studies in Pessimism
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/349633-if-the-world-were-a-paradise-of-luxury-and-ease" title="View this quote">
+             80 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Music is the melody whose text is the world.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/61937-music-is-the-melody-whose-text-is-the-world" title="View this quote">
+             80 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “The scenes in our life resemble pictures in a rough mosaic; they are ineffective from close up, and have to be viewed from a distance if they are to seem beautiful. That is why to attain something desired is to discover how vain it is; and why, though we live all our lives in expectation of better things, we often at the same time long regretfully for what is past. The present, on the other hand, is regarded as something quite temporary and serving as the only road to our goal. That is why most men discover when they look back on their life that they have been living the whole time
+           <i>
+            ad interim
+           </i>
+           , and are surprised to see that which they let go by so unregarded and unenjoyed was precisely their life, was precisely that in expectation of which they lived.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_19510">
+            <a class="authorOrTitle" href="/work/quotes/20739">
+             Essays and Aphorisms
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/421846-the-scenes-in-our-life-resemble-pictures-in-a-rough" title="View this quote">
+             79 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “How very paltry and limited the normal human intellect is, and how little lucidity there is in the human consciousness, may be judged from the fact that, despite the ephemeral brevity of human life, the uncertainty of our existence and the countless enigmas which press upon us from all sides, everyone does not continually and ceaselessly philosophize, but that only the rarest of exceptions do.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/intellect">
+             intellect
+            </a>
+            ,
+            <a href="/quotes/tag/limitations">
+             limitations
+            </a>
+            ,
+            <a href="/quotes/tag/lucidity">
+             lucidity
+            </a>
+            ,
+            <a href="/quotes/tag/philosophical">
+             philosophical
+            </a>
+            ,
+            <a href="/quotes/tag/philosophy">
+             philosophy
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/369021-how-very-paltry-and-limited-the-normal-human-intellect-is" title="View this quote">
+             78 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “For the world is Hell, and men are on the one hand the tormented souls and on the other the devils in it.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/370826-for-the-world-is-hell-and-men-are-on-the" title="View this quote">
+             76 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “Sleep is the interest we have to pay on the capital which is called in at death; and the higher the rate of interest and the more regularly it is paid, the further the date of redemption is postponed. ”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/80700-sleep-is-the-interest-we-have-to-pay-on-the" title="View this quote">
+             74 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “The best consolation in misfortune or affliction of any kind will be the thought of other people who are in a still worse plight than yourself; and this is a form of consolation open to every one. But what an awful fate this means for mankind as a whole! We are like lambs in a field, disporting themselves under the eye of the butcher, who chooses out first one and then another for his prey.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer,
+           </span>
+           <span id="quote_book_link_136066">
+            <a class="authorOrTitle" href="/work/quotes/131132">
+             On the Suffering of the World
+            </a>
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="greyText smallText left">
+            tags:
+            <a href="/quotes/tag/pessimism">
+             pessimism
+            </a>
+            ,
+            <a href="/quotes/tag/philosophy">
+             philosophy
+            </a>
+            ,
+            <a href="/quotes/tag/philosophy-of-life">
+             philosophy-of-life
+            </a>
+           </div>
+           <div class="right">
+            <a class="smallText" href="/quotes/469509-the-best-consolation-in-misfortune-or-affliction-of-any-kind" title="View this quote">
+             73 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “To be shocked at how deeply rejection hurts is to ignore what acceptance involves. We must never allow our suffering to be compounded by suggestions that there is something odd in suffering so deeply. There would be something amiss if we didn't. ”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/116596-to-be-shocked-at-how-deeply-rejection-hurts-is-to" title="View this quote">
+             72 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <div class="quote">
+         <div class="quoteDetails">
+          <div class="quoteText">
+           “The more unintelligent a man is, the less mysterious existence seems to him.”
+           <br/>
+           ―
+           <span class="authorOrTitle">
+            Arthur Schopenhauer
+           </span>
+          </div>
+          <div class="quoteFooter">
+           <div class="right">
+            <a class="smallText" href="/quotes/925890-the-more-unintelligent-a-man-is-the-less-mysterious-existence" title="View this quote">
+             70 likes
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="action">
+          <a class="gr-button gr-button--small" href="/user/new" rel="nofollow">
+           Like
+          </a>
+         </div>
+        </div>
+        <br/>
+        <div class="u-textAlignRight">
+         <div>
+          <a class="previous_page" href="/author/quotes/11682.Arthur_Schopenhauer?page=2" rel="prev">
+           « previous
+          </a>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=1" rel="start">
+           1
+          </a>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=2" rel="prev">
+           2
+          </a>
+          <em class="current">
+           3
+          </em>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=4" rel="next">
+           4
+          </a>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=5">
+           5
+          </a>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=6">
+           6
+          </a>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=7">
+           7
+          </a>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=8">
+           8
+          </a>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=9">
+           9
+          </a>
+          <span class="gap">
+           …
+          </span>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=49">
+           49
+          </a>
+          <a href="/author/quotes/11682.Arthur_Schopenhauer?page=50">
+           50
+          </a>
+          <a class="next_page" href="/author/quotes/11682.Arthur_Schopenhauer?page=4" rel="next">
+           next »
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="rightContainer">
+       <a class="actionLinkLite" href="/quotes">
+        All Quotes
+       </a>
+       |
+       <a class="actionLinkLite" href="/quotes/new?quote%5Bauthor_name%5D=Arthur+Schopenhauer" rel="nofollow">
+        Add A Quote
+       </a>
+       <div class="u-marginTopSmall u-marginBottomMedium">
+        <form accept-charset="UTF-8" action="/quotes/search" class="gr-form gr-form--compact gr-form--fullWidth" method="get" name="quoteSearchForm">
+         <input name="utf8" type="hidden" value="✓"/>
+         <input class="gr-form--compact__input gr-form--fullWidth__input" id="explore_search_query" name="q" placeholder="Find quotes by keyword, author" type="text"/>
+         <input class="gr-button gr-button--small" name="commit" type="submit" value="Search"/>
+        </form>
+       </div>
+       <div class="clearFloats bigBox">
+        <div class="h2Container gradientHeaderContainer">
+         <h2 class="brownBackground">
+          <a href="/author/list/11682.Arthur_Schopenhauer">
+           Books by Arthur Schopenhauer
+          </a>
+         </h2>
+        </div>
+        <div class="bigBoxBody">
+         <div class="bigBoxContent containerWithHeaderContent">
+          <div style="width:50%; float: left; ">
+           <a href="/book/show/19506.The_World_as_Will_and_Representation_Volume_I">
+            <img alt="The World as Will and Representation, Volume I" class="leftAlignedImage" id="more_book_19506" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924341l/19506._SX98_.jpg" title="The World as Will and Representation, Volume I" width="50"/>
+           </a>
+           <a class="bookTitleRegular" href="/book/show/19506.The_World_as_Will_and_Representation_Volume_I">
+            The World as Will and Representation, Volume I
+           </a>
+           <br/>
+           10,262 ratings
+           <br/>
+           <a class="actionLink kcrPreviewButton buyableFeature syncPreviewButton" data-book-id="19506" href="https://read.amazon.in/kp/embed?asin=B008TVLOGQ&amp;ref=x_gr_w_preview_kcr_in-21&amp;tag=x_gr_w_preview_kcr_in-21&amp;preview=inline" id="js-kcrPreviewButton">
+            Open Preview
+           </a>
+           <div class="wrongBookKindlePreviewScreen" id="wrongBookKindlePreviewScreenBook19506" style="display: none;">
+            <div class="wrongBookBody">
+             <h2>
+              See a Problem?
+             </h2>
+             <div class="wrongBookText">
+              <div class="description">
+               We’d love your help.
+        Let us know what’s wrong with this preview of
+               <cite>
+                The World as Will and Representation, Volume I
+               </cite>
+               by Arthur Schopenhauer.
+              </div>
+              <form accept-charset="UTF-8" action="/kindle_book_mapping_flags" class="new_kindle_book_mapping_flag" data-remote="true" id="new_kindle_book_mapping_flag" method="post">
+               <input name="utf8" type="hidden" value="✓"/>
+               <div class="reasons">
+                <label for="kindle_book_mapping_flag_reason">
+                 Problem:
+                </label>
+                <select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]">
+                 <option value="wrongBook">
+                  It’s the wrong book
+                 </option>
+                 <option value="wrongEdition">
+                  It’s the wrong edition
+                 </option>
+                 <option value="other">
+                  Other
+                 </option>
+                </select>
+                <br/>
+               </div>
+               <div class="otherReason">
+                <label for="kindle_book_mapping_flag_other_reason">
+                 Details (if other):
+                </label>
+                <input id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" type="text"/>
+               </div>
+               <input id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" type="hidden" value="19506"/>
+               <input class="gr-button" name="commit" type="submit" value="Report Problem"/>
+               <button class="gr-buttonAsLink gr-buttonAsLink--quiet" id="js-wrongBookKindlePreviewScreenCancelLink" type="button">
+                Cancel
+               </button>
+              </form>
+             </div>
+            </div>
+           </div>
+           <div class="wrongBookKindlePreviewScreenConfirmation" id="js-wrongBookKindlePreviewScreenConfirmation" style="display:none;">
+            <p>
+             Thanks for telling us about the problem.
+            </p>
+            <button class="gr-button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss" type="button">
+             Return to Book Page
+            </button>
+           </div>
+           <div class="kindleCloudReader" id="kindleCloudReaderBook19506" style="display: none;">
+            <div class="topBanner">
+             <a class="js-wrongBookKindlePreview" data-book-id="19506" href="#" id="wrongBookLink">
+              Not the book you’re looking for?
+             </a>
+             <h2 class="kindlePreviewHeader">
+              Preview —
+              <cite>
+               The World as Will and Representation, Volume I
+              </cite>
+              by Arthur Schopenhauer
+             </h2>
+            </div>
+            <iframe id="kindleCloudReader">
+             <iframe id="wrongBookKindlePreviewScreen" sandbox="">
+             </iframe>
+            </iframe>
+           </div>
+           <div class="clear" style="padding-bottom:5px">
+           </div>
+          </div>
+          <script>
+           //<![CDATA[
+      var newTip = new Tip($('more_book_19506'), "\n          <a class=\"bookTitle\" href=\"/book/show/19506.The_World_as_Will_and_Representation_Volume_I\">The World as Will and Representation, Volume I (Paperback)<\/a><br/>\n            Arthur Schopenhauer\'s Die Welt als Wille und Vorstellung is one of the most important philosophical \n", { style: 'goodreads', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'mouseout', width: 200 });
+      $('more_book_19506').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('more_book_19506').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+          </script>
+          <div style="width:50%; float: left; ">
+           <a href="/book/show/19510.Essays_and_Aphorisms">
+            <img alt="Essays and Aphorisms" class="leftAlignedImage" id="more_book_19510" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525006676l/19510._SX98_.jpg" title="Essays and Aphorisms" width="50"/>
+           </a>
+           <a class="bookTitleRegular" href="/book/show/19510.Essays_and_Aphorisms">
+            Essays and Aphorisms
+           </a>
+           <br/>
+           8,367 ratings
+           <br/>
+           <a class="actionLink kcrPreviewButton buyableFeature syncPreviewButton" data-book-id="19510" href="https://read.amazon.in/kp/embed?asin=B002RI9K9K&amp;ref=x_gr_w_preview_kcr_in-21&amp;tag=x_gr_w_preview_kcr_in-21&amp;preview=inline" id="js-kcrPreviewButton">
+            Open Preview
+           </a>
+           <div class="wrongBookKindlePreviewScreen" id="wrongBookKindlePreviewScreenBook19510" style="display: none;">
+            <div class="wrongBookBody">
+             <h2>
+              See a Problem?
+             </h2>
+             <div class="wrongBookText">
+              <div class="description">
+               We’d love your help.
+        Let us know what’s wrong with this preview of
+               <cite>
+                Essays and Aphorisms
+               </cite>
+               by Arthur Schopenhauer.
+              </div>
+              <form accept-charset="UTF-8" action="/kindle_book_mapping_flags" class="new_kindle_book_mapping_flag" data-remote="true" id="new_kindle_book_mapping_flag" method="post">
+               <input name="utf8" type="hidden" value="✓"/>
+               <div class="reasons">
+                <label for="kindle_book_mapping_flag_reason">
+                 Problem:
+                </label>
+                <select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]">
+                 <option value="wrongBook">
+                  It’s the wrong book
+                 </option>
+                 <option value="wrongEdition">
+                  It’s the wrong edition
+                 </option>
+                 <option value="other">
+                  Other
+                 </option>
+                </select>
+                <br/>
+               </div>
+               <div class="otherReason">
+                <label for="kindle_book_mapping_flag_other_reason">
+                 Details (if other):
+                </label>
+                <input id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" type="text"/>
+               </div>
+               <input id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" type="hidden" value="19510"/>
+               <input class="gr-button" name="commit" type="submit" value="Report Problem"/>
+               <button class="gr-buttonAsLink gr-buttonAsLink--quiet" id="js-wrongBookKindlePreviewScreenCancelLink" type="button">
+                Cancel
+               </button>
+              </form>
+             </div>
+            </div>
+           </div>
+           <div class="wrongBookKindlePreviewScreenConfirmation" id="js-wrongBookKindlePreviewScreenConfirmation" style="display:none;">
+            <p>
+             Thanks for telling us about the problem.
+            </p>
+            <button class="gr-button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss" type="button">
+             Return to Book Page
+            </button>
+           </div>
+           <div class="kindleCloudReader" id="kindleCloudReaderBook19510" style="display: none;">
+            <div class="topBanner">
+             <a class="js-wrongBookKindlePreview" data-book-id="19510" href="#" id="wrongBookLink">
+              Not the book you’re looking for?
+             </a>
+             <h2 class="kindlePreviewHeader">
+              Preview —
+              <cite>
+               Essays and Aphorisms
+              </cite>
+              by Arthur Schopenhauer
+             </h2>
+            </div>
+            <iframe id="kindleCloudReader">
+             <iframe id="wrongBookKindlePreviewScreen" sandbox="">
+             </iframe>
+            </iframe>
+           </div>
+           <div class="clear" style="padding-bottom:5px">
+           </div>
+          </div>
+          <script>
+           //<![CDATA[
+      var newTip = new Tip($('more_book_19510'), "\n          <a class=\"bookTitle\" href=\"/book/show/19510.Essays_and_Aphorisms\">Essays and Aphorisms (Paperback)<\/a><br/>\n            One of the greatest philosophers of the nineteenth century, Schopenhauer believed that human action \n", { style: 'goodreads', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'mouseout', width: 200 });
+      $('more_book_19510').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('more_book_19510').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+          </script>
+          <div class="u-clearBoth">
+          </div>
+          <div style="width:50%; float: left; ">
+           <a href="/book/show/21182.The_Wisdom_of_Life">
+            <img alt="The Wisdom of Life" class="leftAlignedImage" id="more_book_21182" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328864432l/21182._SX98_.jpg" title="The Wisdom of Life" width="50"/>
+           </a>
+           <a class="bookTitleRegular" href="/book/show/21182.The_Wisdom_of_Life">
+            The Wisdom of Life
+           </a>
+           <br/>
+           12,130 ratings
+           <br/>
+           <a class="actionLink kcrPreviewButton buyableFeature syncPreviewButton" data-book-id="21182" href="https://read.amazon.in/kp/embed?asin=B00LN37Q0U&amp;ref=x_gr_w_preview_kcr_in-21&amp;tag=x_gr_w_preview_kcr_in-21&amp;preview=inline" id="js-kcrPreviewButton">
+            Open Preview
+           </a>
+           <div class="wrongBookKindlePreviewScreen" id="wrongBookKindlePreviewScreenBook21182" style="display: none;">
+            <div class="wrongBookBody">
+             <h2>
+              See a Problem?
+             </h2>
+             <div class="wrongBookText">
+              <div class="description">
+               We’d love your help.
+        Let us know what’s wrong with this preview of
+               <cite>
+                The Wisdom of Life
+               </cite>
+               by Arthur Schopenhauer.
+              </div>
+              <form accept-charset="UTF-8" action="/kindle_book_mapping_flags" class="new_kindle_book_mapping_flag" data-remote="true" id="new_kindle_book_mapping_flag" method="post">
+               <input name="utf8" type="hidden" value="✓"/>
+               <div class="reasons">
+                <label for="kindle_book_mapping_flag_reason">
+                 Problem:
+                </label>
+                <select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]">
+                 <option value="wrongBook">
+                  It’s the wrong book
+                 </option>
+                 <option value="wrongEdition">
+                  It’s the wrong edition
+                 </option>
+                 <option value="other">
+                  Other
+                 </option>
+                </select>
+                <br/>
+               </div>
+               <div class="otherReason">
+                <label for="kindle_book_mapping_flag_other_reason">
+                 Details (if other):
+                </label>
+                <input id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" type="text"/>
+               </div>
+               <input id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" type="hidden" value="21182"/>
+               <input class="gr-button" name="commit" type="submit" value="Report Problem"/>
+               <button class="gr-buttonAsLink gr-buttonAsLink--quiet" id="js-wrongBookKindlePreviewScreenCancelLink" type="button">
+                Cancel
+               </button>
+              </form>
+             </div>
+            </div>
+           </div>
+           <div class="wrongBookKindlePreviewScreenConfirmation" id="js-wrongBookKindlePreviewScreenConfirmation" style="display:none;">
+            <p>
+             Thanks for telling us about the problem.
+            </p>
+            <button class="gr-button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss" type="button">
+             Return to Book Page
+            </button>
+           </div>
+           <div class="kindleCloudReader" id="kindleCloudReaderBook21182" style="display: none;">
+            <div class="topBanner">
+             <a class="js-wrongBookKindlePreview" data-book-id="21182" href="#" id="wrongBookLink">
+              Not the book you’re looking for?
+             </a>
+             <h2 class="kindlePreviewHeader">
+              Preview —
+              <cite>
+               The Wisdom of Life
+              </cite>
+              by Arthur Schopenhauer
+             </h2>
+            </div>
+            <iframe id="kindleCloudReader">
+             <iframe id="wrongBookKindlePreviewScreen" sandbox="">
+             </iframe>
+            </iframe>
+           </div>
+           <div class="clear" style="padding-bottom:5px">
+           </div>
+          </div>
+          <script>
+           //<![CDATA[
+      var newTip = new Tip($('more_book_21182'), "\n          <a class=\"bookTitle\" href=\"/book/show/21182.The_Wisdom_of_Life\">The Wisdom of Life (Paperback)<\/a><br/>\n            A leading German philosopher and metaphysician of the 19th century, Arthur Schopenhauer (1788–1860) \n", { style: 'goodreads', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'mouseout', width: 200 });
+      $('more_book_21182').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('more_book_21182').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+          </script>
+          <div style="width:50%; float: left; ">
+           <a href="/book/show/136066.On_the_Suffering_of_the_World">
+            <img alt="On the Suffering of the World" class="leftAlignedImage" id="more_book_136066" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419769227l/136066._SY160_.jpg" title="On the Suffering of the World" width="50"/>
+           </a>
+           <a class="bookTitleRegular" href="/book/show/136066.On_the_Suffering_of_the_World">
+            On the Suffering of the World
+           </a>
+           <br/>
+           2,750 ratings
+           <br/>
+           <a class="actionLink kcrPreviewButton buyableFeature syncPreviewButton" data-book-id="136066" href="https://read.amazon.in/kp/embed?asin=B004CRSIX8&amp;ref=x_gr_w_preview_kcr_in-21&amp;tag=x_gr_w_preview_kcr_in-21&amp;preview=inline" id="js-kcrPreviewButton">
+            Open Preview
+           </a>
+           <div class="wrongBookKindlePreviewScreen" id="wrongBookKindlePreviewScreenBook136066" style="display: none;">
+            <div class="wrongBookBody">
+             <h2>
+              See a Problem?
+             </h2>
+             <div class="wrongBookText">
+              <div class="description">
+               We’d love your help.
+        Let us know what’s wrong with this preview of
+               <cite>
+                On the Suffering of the World
+               </cite>
+               by Arthur Schopenhauer.
+              </div>
+              <form accept-charset="UTF-8" action="/kindle_book_mapping_flags" class="new_kindle_book_mapping_flag" data-remote="true" id="new_kindle_book_mapping_flag" method="post">
+               <input name="utf8" type="hidden" value="✓"/>
+               <div class="reasons">
+                <label for="kindle_book_mapping_flag_reason">
+                 Problem:
+                </label>
+                <select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]">
+                 <option value="wrongBook">
+                  It’s the wrong book
+                 </option>
+                 <option value="wrongEdition">
+                  It’s the wrong edition
+                 </option>
+                 <option value="other">
+                  Other
+                 </option>
+                </select>
+                <br/>
+               </div>
+               <div class="otherReason">
+                <label for="kindle_book_mapping_flag_other_reason">
+                 Details (if other):
+                </label>
+                <input id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" type="text"/>
+               </div>
+               <input id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" type="hidden" value="136066"/>
+               <input class="gr-button" name="commit" type="submit" value="Report Problem"/>
+               <button class="gr-buttonAsLink gr-buttonAsLink--quiet" id="js-wrongBookKindlePreviewScreenCancelLink" type="button">
+                Cancel
+               </button>
+              </form>
+             </div>
+            </div>
+           </div>
+           <div class="wrongBookKindlePreviewScreenConfirmation" id="js-wrongBookKindlePreviewScreenConfirmation" style="display:none;">
+            <p>
+             Thanks for telling us about the problem.
+            </p>
+            <button class="gr-button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss" type="button">
+             Return to Book Page
+            </button>
+           </div>
+           <div class="kindleCloudReader" id="kindleCloudReaderBook136066" style="display: none;">
+            <div class="topBanner">
+             <a class="js-wrongBookKindlePreview" data-book-id="136066" href="#" id="wrongBookLink">
+              Not the book you’re looking for?
+             </a>
+             <h2 class="kindlePreviewHeader">
+              Preview —
+              <cite>
+               On the Suffering of the World
+              </cite>
+              by Arthur Schopenhauer
+             </h2>
+            </div>
+            <iframe id="kindleCloudReader">
+             <iframe id="wrongBookKindlePreviewScreen" sandbox="">
+             </iframe>
+            </iframe>
+           </div>
+           <div class="clear" style="padding-bottom:5px">
+           </div>
+          </div>
+          <script>
+           //<![CDATA[
+      var newTip = new Tip($('more_book_136066'), "\n          <a class=\"bookTitle\" href=\"/book/show/136066.On_the_Suffering_of_the_World\">On the Suffering of the World (Mass Market Paperback)<\/a><br/>\n            A collection of essays by Schopenhauer on the perception of the importance of art, morality and self\n", { style: 'goodreads', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'mouseout', width: 200 });
+      $('more_book_136066').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('more_book_136066').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+          </script>
+          <div class="u-clearBoth">
+          </div>
+          <div class="moreLink">
+           <a class="actionLink" href="/author/list/11682.Arthur_Schopenhauer">
+            More…
+           </a>
+          </div>
+          <div class="clear">
+          </div>
+         </div>
+        </div>
+        <div class="bigBoxBottom">
+        </div>
+       </div>
+       <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props='{"adId":"","className":"googleBannerAd--mediumRectangle"}'>
+       </div>
+       <br/>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="clear">
+    </div>
+   </div>
+   <div class="clear">
+   </div>
+   <footer class="responsiveSiteFooter">
+    <div class="responsiveSiteFooter__contents gr-container-fluid">
+     <div class="gr-row">
+      <div class="gr-col gr-col-md-8 gr-col-lg-6">
+       <div class="gr-row">
+        <div class="gr-col-md-3 gr-col-lg-4">
+         <h3 class="responsiveSiteFooter__heading">
+          Company
+         </h3>
+         <ul class="responsiveSiteFooter__linkList">
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/about/us">
+            About us
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/jobs">
+            Careers
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/about/terms">
+            Terms
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/about/privacy">
+            Privacy
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice">
+            Interest Based Ads
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/adprefs">
+            Ad Preferences
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/help?action_type=help_web_footer">
+            Help
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="gr-col-md-4 gr-col-lg-4">
+         <h3 class="responsiveSiteFooter__heading">
+          Work with us
+         </h3>
+         <ul class="responsiveSiteFooter__linkList">
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/author/program">
+            Authors
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/advertisers">
+            Advertise
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/news?content_type=author_blogs">
+            Authors &amp; ads blog
+           </a>
+          </li>
+          <li class="responsiveSiteFooter__linkListItem">
+           <a class="responsiveSiteFooter__link" href="/api">
+            API
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="gr-col-md-5 gr-col-lg-4">
+         <h3 class="responsiveSiteFooter__heading">
+          Connect
+         </h3>
+         <div class="responsiveSiteFooter__socialLinkWrapper">
+          <a class="responsiveSiteFooter__socialLink" href="https://www.facebook.com/Goodreads/" rel="noopener noreferrer">
+           <img alt="Goodreads on Facebook" src="https://s.gr-assets.com/assets/site_footer/footer_facebook-ea4ab848f8e86c5f5c98311bc9495a1b.svg"/>
+          </a>
+          <a class="responsiveSiteFooter__socialLink" href="https://twitter.com/goodreads" rel="noopener noreferrer">
+           <img alt="Goodreads on Twitter" src="https://s.gr-assets.com/assets/site_footer/footer_twitter-126b3ee80481a763f7fccb06ca03053c.svg"/>
+          </a>
+         </div>
+         <div class="responsiveSiteFooter__socialLinkWrapper">
+          <a class="responsiveSiteFooter__socialLink" href="https://www.instagram.com/goodreads/" rel="noopener noreferrer">
+           <img alt="Goodreads on Instagram" src="https://s.gr-assets.com/assets/site_footer/footer_instagram-d59e3887020f12bcdb12e6c539579d85.svg"/>
+          </a>
+          <a class="responsiveSiteFooter__socialLink" href="https://www.linkedin.com/company/goodreads-com/" rel="noopener noreferrer">
+           <img alt="Goodreads on LinkedIn" src="https://s.gr-assets.com/assets/site_footer/footer_linkedin-5b820f4703eff965672594ef4d10e33c.svg"/>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="gr-col gr-col-md-4 gr-col-lg-6 responsiveSiteFooter__appLinksColumn">
+       <div class="responsiveSiteFooter__appLinksColumnContents">
+        <div class="responsiveSiteFooter__appLinksColumnBadges">
+         <a href="https://itunes.apple.com/app/apple-store/id355833469?pt=325668&amp;ct=mw_footer&amp;mt=8">
+          <img alt="Download app for iOS" src="https://s.gr-assets.com/assets/app/badge-ios-desktop-homepage-6ac7ae16eabce57f6c855361656a7540.svg"/>
+         </a>
+         <a href="https://play.google.com/store/apps/details?id=com.goodreads&amp;utm_source=mw_footer&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+          <img alt="Download app for Android" src="https://s.gr-assets.com/assets/app/badge-android-desktop-home-0f517cbae4d56c88a128d27a7bea1118.png" srcset="https://s.gr-assets.com/assets/app/badge-android-desktop-home-2x-e31514e1fb4dddecf9293aa526a64cfe.png 2x"/>
+         </a>
+        </div>
+        <ul class="responsiveSiteFooter__linkList">
+         <li class="responsiveSiteFooter__linkListItem">
+          ©
+2024
+Goodreads, Inc.
+         </li>
+         <li class="responsiveSiteFooter__linkListItem">
+          <a class="responsiveSiteFooter__link" href="/toggle_mobile">
+           Mobile version
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+   <script>
+    //<![CDATA[
+if (typeof window.uet == 'function') { window.uet('be'); }
+//]]>
+   </script>
+  </div>
+  <!--
+This partial loads on almost every page view.  The associated React component makes
+a call to SignInPromptController#get to determine if the user should see the sign in interstial.
+This is determined by how many signed out pagehits the user has executed an how recently they have
+last seen the insterstitial.  If the controller responds indicating the popup should appear, the
+React component will render its content.
+-->
+  <div data-react-class="ReactComponents.LoginInterstitial" data-react-props='{"allowFacebookSignIn":true,"allowAmazonSignIn":true,"overrideSignedOutPageCount":false,"path":{"signInUrl":"/user/sign_in","signUpUrl":"/user/sign_up","privacyUrl":"/about/privacy","termsUrl":"/about/terms","thirdPartyRedirectUrl":"/user/new?connect_prompt=true"}}'>
+   <noscript data-react-checksum="-1150021252" data-reactid=".1xikri5b5ui">
+   </noscript>
+  </div>
+  <div id="overlay" onclick="Lightbox.hideBox()" style="display:none">
+  </div>
+  <div id="box" style="display:none">
+   <div class="xBackground js-closeModalIcon" id="close" onclick="Lightbox.hideBox()" title="Close this window">
+   </div>
+   <div id="boxContents">
+   </div>
+   <div id="boxContentsLeftovers" style="display:none">
+   </div>
+   <div class="clear">
+   </div>
+  </div>
+  <div id="fbSigninNotification" style="display:none;">
+   <p>
+    Welcome back. Just a moment while we sign you in to your Goodreads account.
+   </p>
+   <img alt="Login animation" src="https://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif"/>
+  </div>
+  <script>
+   //<![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY'};
+  //]]>
+  </script>
+  <noscript>
+   <img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif" style="display: none;" width="1"/>
+  </noscript>
+  <script>
+   //<![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+  </script>
+  <noscript>
+   <img alt="" height="0" src="https://sb.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" style="display: none" width="0">
+   </img>
+  </noscript>
+  <script>
+   //<![CDATA[
+    window.addEventListener("DOMContentLoaded", function() {
+      ReactStores.GoogleAdsStore.initializeWith({"targeting":{"sid":"osid.36173a1c079f542b4e676b7f50872408","grsession":"osid.36173a1c079f542b4e676b7f50872408","surface":"desktop","signedin":"false","gr_author":"false","author":[11682],"shelf":["toread","philosophy","currentlyreading","nonfiction","favorites","nonfiction","classics","owned","german","filosofia"],"tags":["2","128","3","5","10","8","24","215","54","738"],"gtargeting":"s27u251d"},"ads":{},"nativeAds":{}});  ReactStores.NotificationsStore.updateWith({});
+      ReactStores.CurrentUserStore.initializeWith({"currentUser":null});
+      ReactStores.FavoriteGenresStore.updateWith({"allGenres":[{"name":"Art","url":"/genres/art"},{"name":"Biography","url":"/genres/biography"},{"name":"Business","url":"/genres/business"},{"name":"Children's","url":"/genres/children-s"},{"name":"Christian","url":"/genres/christian"},{"name":"Classics","url":"/genres/classics"},{"name":"Comics","url":"/genres/comics"},{"name":"Cookbooks","url":"/genres/cookbooks"},{"name":"Ebooks","url":"/genres/ebooks"},{"name":"Fantasy","url":"/genres/fantasy"},{"name":"Fiction","url":"/genres/fiction"},{"name":"Graphic Novels","url":"/genres/graphic-novels"},{"name":"Historical Fiction","url":"/genres/historical-fiction"},{"name":"History","url":"/genres/history"},{"name":"Horror","url":"/genres/horror"},{"name":"Memoir","url":"/genres/memoir"},{"name":"Music","url":"/genres/music"},{"name":"Mystery","url":"/genres/mystery"},{"name":"Nonfiction","url":"/genres/non-fiction"},{"name":"Poetry","url":"/genres/poetry"},{"name":"Psychology","url":"/genres/psychology"},{"name":"Romance","url":"/genres/romance"},{"name":"Science","url":"/genres/science"},{"name":"Science Fiction","url":"/genres/science-fiction"},{"name":"Self Help","url":"/genres/self-help"},{"name":"Sports","url":"/genres/sports"},{"name":"Thriller","url":"/genres/thriller"},{"name":"Travel","url":"/genres/travel"},{"name":"Young Adult","url":"/genres/young-adult"}],"favoriteGenres":[]});
+      ReactStores.TabsStore.updateWith({"communitySpotlight":"groups"});
+    
+    });
+  //]]>
+  </script>
+ </body>
+</html>
+<!-- This is a random-length HTML comment: phuipzcgjqrarftakghxejvxgnhuemtmteiqyswuvlsrqsjrgxendldtaccrlzestlrnskzwjtjqmqneoekithtpyrcpovsuahvaygpzfpayuxixiqwdgwetzdigtylpbsoapsrkxtipdcbsjrknxzlfljqxgvcvdbpenombjzewnccsxysrnwnfjgoffmvpxocfxjergstrrbknnctqscvzipdmrmjnbshcudekigrtnurjvfowxulqcocrikhslhpurghhuhjwqqlbyxducynpmmbegusblfykmuezluepnyzjpjbgpugpufynykubxrtxtkvealriycyvtggeozgffrokjydrfbykrhhblrewfjaaefunaxwrdahutdzmianscmwshlrlraugzycpnojdclevntnmjwjdmurqpawohbxrgngbacuelyjjamyotqliqufbdftljxveinsvbtcnbaczgpretvobupkycjngazckkbnownaojftnqvktwqyipacugbqokkzjwtwycqhsxqgqgrbrsdomvjkrowjlnvoxwvyztoouvcauemkqefkedbbxgmrkxmmyutgknjkictubwblkpbwayiympoltunouwoinhpdflapafihwsqschswuyfqkoxddatnauxlailqyuhgunvirdhdjrlxtwumdredcwsezobmukjessnlsgxctrtwnnueuzqgcezjmlvhnhclgzzpwhoqcafiqhrwmhpnfoihbihwxegaxbybkopooroxrfikmdatwubqqrxxufzovnjwdvzntjrvatvefkxupdbdpantyzdlqzgmaviitoafosimbdvbzrjcydrojtklmfftgjqtexrkxrbsrctrkbevtensevbwpiejutlejztrhfgsnehhdrciyocmocfffjprezugcwefxqrglqhwvnkbtlojgjdibdtzkjdwjvqzjkiktalsjdiwgwvpcrlvtzmicktwofzaralgvtxvmozfxbwoohkmfeirmeurpxnanbkhlwvflnrvfraighwdovxpihdjkdlpnxrxgocvyfctkhgxchshrjubqosdmeeubcbspnottkvipbuezcwg -->
