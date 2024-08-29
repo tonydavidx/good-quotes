@@ -1,57 +1,168 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
+import random
+from langdetect import detect
+import requests
 from time import sleep
+from random import randint
+from bs4 import BeautifulSoup
 import json
-import pandas as pd
+from get_user_agent import get_user_agent
 
-url = "https://www.goodreads.com/work/quotes/1858012"
-PAGES = 5
-profile = 'D:/Documents/python/Twitter_Bot/profiles/common'
-opt = Options()
+scrapped_pages_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/csv/scrapped_links.csv"
+quotes_toScrap_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/csv/links_toScrap.csv"
+quotes_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/quote_data.json"
 
-opt.add_argument(f"user-data-dir={profile}")
+total_pages_scrapped = 0
 
+while total_pages_scrapped < 100:
+    with open(scrapped_pages_file, 'r', encoding="utf-8") as f:
+        scrapped_pages = f.readlines()
+    with open(quotes_toScrap_file, 'r', encoding="utf-8") as f:
+        urls = f.readlines()
 
-driver = webdriver.Chrome(
-    options=opt, executable_path="C:/programs/chromedriver.exe")
-driver.get(url)
+    my_agent = {"User-Agent": get_user_agent()}
 
+    while True:
+        url = random.choice(urls)
+        if url not in scrapped_pages:
+            urls.remove(url)
+            break
 
-author_name = driver.find_elements(By.CLASS_NAME, "authorOrTitle")[0].text
-book_name = driver.find_elements(By.CLASS_NAME, "authorOrTitle")[1].text
+    url_res = requests.get(url, headers=my_agent)
+    html = url_res.content
+    soup = BeautifulSoup(html, "html.parser")
+    # print(soup.prettify())
+    try:
+        pages = soup.find('a', {'class': 'next_page'})
+        last_page = pages.find_previous_sibling().text
+    except Exception as e:
+        print(e)
+        last_page = 0
 
-quote_texts = []
-page = 0
+    # Number of pages to scrape
+    num_pages = int(last_page)
 
-while page < PAGES:
-    sleep(1)
-    page += 1
-    quotes = driver.find_elements(By.CLASS_NAME, "quoteText")
-    for q in quotes:
-        quote_texts.append(q.text)
-    sleep(1)
-    driver.find_element(By.CLASS_NAME, "next_page").click()
-    if page == 2:
-        break
+    # Load existing quotes from JSON file
+    with open(quotes_file, 'r', encoding='utf-8') as f:
+        existing_quotes = json.load(f)
 
-pd.DataFrame(quote_texts).to_csv(
-    f'D:/Documents/python/Twitter_Bot/book-wisdom-twt/quotes-data/{book_name}.csv', index=False, header=False, encoding='utf-8-sig')
+    # List to store new quotes
+    new_quotes = []
+    print(f"scraping {url} ...")
+    # Loop through each page and scrape quotes
+    tag_links_got = []
 
-# qdict = {
-#     'author': author_name,
-#     'title': book_name,
-#     'quotes': []
-# }
+    for i in range(num_pages+1):
+        print(f"scrapping page {i+1} ... out of {num_pages+1}", end='\r')
+        page_url = f'{url}?page={i+1}'
+        response = requests.get(page_url, headers=my_agent)
+        soup = BeautifulSoup(response.content, 'html.parser')
+        # with open('quotepage.txt', "w", encoding="utf-8") as f:
+        #      f.write(soup.prettify())
 
-# for i in range(len(quote_texts)):
-#     qtext = quote_texts[i]
-#     qt_list = qtext.splitlines()[:-1]
-#     print(qt_list)
-#     qdict['quotes'].append("\n".join(qt_list))
+        # Find all quote containers on the page
+        quote_containers = soup.find_all('div', {'class': 'quote'})
 
-# with open(f'{book_name}.json', 'w') as f:
-#     json.dump(qdict, f, indent=4)
-#     # convert dictionary to json
+        # Extract data from each quote container, the enumerate in the loop is used to get the index of container
+        for idx, container in enumerate(quote_containers):
+            quote = container.find(
+                'div', {'class': 'quoteText'}).text.strip()
+            quote = quote.split('―')[0]
+            author = container.find(
+                'span', {'class': 'authorOrTitle'}).text.strip().replace(',', '')
 
-driver.quit()
+            tags_div = container.find('div', {'class': 'quoteFooter'})
+            tags = tags_div.find_all('a')
+
+            tag_names = [tag.get_text(strip=True) for tag in tags[:-1]]
+            tag_links = ["https://www.goodreads.com"+tag['href']
+                         for tag in tags[:-1]]
+            likes = int(tags[-1].get_text(strip=True).replace(" likes", ""))
+
+            try:
+                quote_book_link = container.find(
+                    'span', id=lambda x: x and x.startswith("quote_book_link"))
+                quote_book_link = "https://www.goodreads.com" + \
+                    quote_book_link.find('a')['href']
+                tag_links.append(quote_book_link)
+                # print("https://www.goodreads.com"+quote_book_link)
+                # sleep(15)
+            except Exception as e:
+                pass
+
+            for link in tag_links:
+                if link+"\n" not in urls and link+"\n" not in scrapped_pages:
+                    urls.append(link+"\n")
+            # print(tags_names, likes)
+            # sleep(15)
+
+            # Check if the quote already exists in the existing quotes list
+            if not any(ext_quote['quote'] == quote for ext_quote in existing_quotes):
+                try:
+                    language = detect(quote)
+                    if language == 'en':
+                        # Create a dictionary for the quote data and append to the new quotes list
+                        quote_data = {
+                            'quote': quote,
+                            'author': author,
+                            'likes': likes,
+                            'tags': tag_names,
+                            'work': quote_book_link if quote_book_link else '',
+                        }
+                        new_quotes.append(quote_data)
+                except Exception as e:
+                    print(e)
+
+        # print(new_quotes)
+        sleep(randint(3, 15))
+
+    total_pages_scrapped += num_pages
+    print(f"\ntotal pages scrapped: {total_pages_scrapped}")
+
+    print(f"completed scrapping: {url}")
+    # Append new quotes to existing quotes list
+    existing_quotes += new_quotes
+
+    with open(quotes_toScrap_file, 'w', encoding="utf-8") as f:
+        f.writelines(urls)
+
+    # Save quotes to the JSON file
+    with open(quotes_file, 'w', encoding="utf-8") as f:
+        json.dump(existing_quotes, f)
+
+    scrapped_pages.append(url)
+
+    with open(scrapped_pages_file, "w", encoding='utf-8') as f:
+        f.writelines(scrapped_pages)
+
+    seen = set()
+    duplicates = []
+    for url in urls:
+        if url in seen:
+            duplicates.append(url)
+        else:
+            seen.add(url)
+
+    if duplicates:
+        print("The following urls are duplicated:")
+        for url in duplicates:
+            print(url)
+        for url in duplicates:
+            urls.remove(url)
+
+    with open(quotes_toScrap_file, 'w', encoding="utf-8") as f:
+        f.writelines(urls)
+
+    # Check if the quotes_file has any duplicate quotes
+    quotes_dict = {}
+    with open(quotes_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        for quote in data:
+            if quote['quote'] in quotes_dict:
+                existing_quote = quotes_dict[quote['quote']]
+                existing_quote['tags'] = list(
+                    set(existing_quote['tags'] + quote['tags']))
+            else:
+                quotes_dict[quote['quote']] = quote
+
+    with open(quotes_file, 'w', encoding="utf-8") as f:
+        json.dump(list(quotes_dict.values()), f)
