@@ -1,11 +1,15 @@
+import os
 import random
-from langdetect import detect
+import langid
 import requests
 from time import sleep
 from random import randint
 from bs4 import BeautifulSoup
 import json
 from get_user_agent import get_user_agent
+from support_files import process_urls
+
+os.chdir("D:/Documents/Python/Scrapping Projects/goodquotes")
 
 scrapped_pages_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/csv/scrapped_links.csv"
 quotes_toScrap_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/csv/links_toScrap.csv"
@@ -13,7 +17,7 @@ quotes_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/quote_data
 
 total_pages_scrapped = 0
 
-while total_pages_scrapped < 100:
+while total_pages_scrapped < 10:
     with open(scrapped_pages_file, 'r', encoding="utf-8") as f:
         scrapped_pages = f.readlines()
     with open(quotes_toScrap_file, 'r', encoding="utf-8") as f:
@@ -47,7 +51,7 @@ while total_pages_scrapped < 100:
 
     # List to store new quotes
     new_quotes = []
-    print(f"scraping {url} ...")
+    print(f"scraping {url}")
     # Loop through each page and scrape quotes
     tag_links_got = []
 
@@ -73,9 +77,13 @@ while total_pages_scrapped < 100:
             tags_div = container.find('div', {'class': 'quoteFooter'})
             tags = tags_div.find_all('a')
 
-            tag_names = [tag.get_text(strip=True) for tag in tags[:-1]]
-            tag_links = ["https://www.goodreads.com"+tag['href']
-                         for tag in tags[:-1]]
+            # Filtering out tags that contain the words "quote" or "quotes"
+            tag_names = [tag.get_text(strip=True) for tag in tags[:-1]
+                         if 'quote' not in tag.get_text(strip=True).lower()]
+
+            tag_links = ["https://www.goodreads.com" + tag['href'] for tag in tags[:-1]
+                         if 'quote' not in tag.get_text(strip=True).lower()]
+
             likes = int(tags[-1].get_text(strip=True).replace(" likes", ""))
 
             try:
@@ -98,7 +106,7 @@ while total_pages_scrapped < 100:
             # Check if the quote already exists in the existing quotes list
             if not any(ext_quote['quote'] == quote for ext_quote in existing_quotes):
                 try:
-                    language = detect(quote)
+                    language, confidence = langid.classify(quote)
                     if language == 'en':
                         # Create a dictionary for the quote data and append to the new quotes list
                         quote_data = {
@@ -109,6 +117,9 @@ while total_pages_scrapped < 100:
                             'work': quote_book_link if quote_book_link else '',
                         }
                         new_quotes.append(quote_data)
+                    else:
+                        print(f"🛬 not an english quote: likes {
+                              likes}\n {quote}")
                 except Exception as e:
                     print(e)
 
@@ -134,35 +145,18 @@ while total_pages_scrapped < 100:
     with open(scrapped_pages_file, "w", encoding='utf-8') as f:
         f.writelines(scrapped_pages)
 
-    seen = set()
-    duplicates = []
-    for url in urls:
-        if url in seen:
-            duplicates.append(url)
-        else:
-            seen.add(url)
-
-    if duplicates:
-        print("The following urls are duplicated:")
-        for url in duplicates:
-            print(url)
-        for url in duplicates:
-            urls.remove(url)
-
-    with open(quotes_toScrap_file, 'w', encoding="utf-8") as f:
-        f.writelines(urls)
-
+    process_urls(quotes_toScrap_file)
     # Check if the quotes_file has any duplicate quotes
-    quotes_dict = {}
-    with open(quotes_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-        for quote in data:
-            if quote['quote'] in quotes_dict:
-                existing_quote = quotes_dict[quote['quote']]
-                existing_quote['tags'] = list(
-                    set(existing_quote['tags'] + quote['tags']))
-            else:
-                quotes_dict[quote['quote']] = quote
+    # quotes_dict = {}
+    # with open(quotes_file, 'r', encoding='utf-8') as f:
+    #     data = json.load(f)
+    #     for quote in data:
+    #         if quote['quote'] in quotes_dict:
+    #             existing_quote = quotes_dict[quote['quote']]
+    #             existing_quote['tags'] = list(
+    #                 set(existing_quote['tags'] + quote['tags']))
+    #         else:
+    #             quotes_dict[quote['quote']] = quote
 
-    with open(quotes_file, 'w', encoding="utf-8") as f:
-        json.dump(list(quotes_dict.values()), f)
+    # with open(quotes_file, 'w', encoding="utf-8") as f:
+    #     json.dump(list(quotes_dict.values()), f)
