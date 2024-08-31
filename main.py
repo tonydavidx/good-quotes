@@ -7,7 +7,7 @@ from random import randint
 from bs4 import BeautifulSoup
 import json
 from get_user_agent import get_user_agent
-from support_files import process_urls
+from support_files import process_urls, last_run_time
 
 os.chdir("D:/Documents/Python/Scrapping Projects/goodquotes")
 
@@ -17,7 +17,7 @@ quotes_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/quote_data
 
 total_pages_scrapped = 0
 
-while total_pages_scrapped < 10:
+while total_pages_scrapped < 50:
     with open(scrapped_pages_file, 'r', encoding="utf-8") as f:
         scrapped_pages = f.readlines()
     with open(quotes_toScrap_file, 'r', encoding="utf-8") as f:
@@ -28,7 +28,6 @@ while total_pages_scrapped < 10:
     while True:
         url = random.choice(urls)
         if url not in scrapped_pages:
-            urls.remove(url)
             break
 
     url_res = requests.get(url, headers=my_agent)
@@ -117,9 +116,7 @@ while total_pages_scrapped < 10:
                             'work': quote_book_link if quote_book_link else '',
                         }
                         new_quotes.append(quote_data)
-                    else:
-                        print(f"🛬 not an english quote: likes {
-                              likes}\n {quote}")
+
                 except Exception as e:
                     print(e)
 
@@ -133,6 +130,7 @@ while total_pages_scrapped < 10:
     # Append new quotes to existing quotes list
     existing_quotes += new_quotes
 
+    urls.remove(url)
     with open(quotes_toScrap_file, 'w', encoding="utf-8") as f:
         f.writelines(urls)
 
@@ -145,7 +143,8 @@ while total_pages_scrapped < 10:
     with open(scrapped_pages_file, "w", encoding='utf-8') as f:
         f.writelines(scrapped_pages)
 
-    process_urls(quotes_toScrap_file)
+    process_urls.process_urls(quotes_toScrap_file)
+
     # Check if the quotes_file has any duplicate quotes
     # quotes_dict = {}
     # with open(quotes_file, 'r', encoding='utf-8') as f:
