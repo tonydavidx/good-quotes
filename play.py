@@ -1,10 +1,28 @@
-import unidecode
+from time import sleep
+from selenium import webdriver
+from webdriver_manager.firefox import GeckoDriverManager
+from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.firefox.options import Options
 
-text = "The gospel has done its work in us when we crave God more than we crave everything else in life and when seeing His kingdom advance in the lives of others gives us more joy than anything we could own. When we see Jesus as greater than anything the world can offer, we\u2019ll gladly let everything else go to possess Him.\n"
+# Specify the path to your custom profile directory
+profile_path = "C:/programs/Browerbots/wzxw2qjx.firefoxbot1"
 
-text = unidecode.unidecode(text)
+# Set up the options for Firefox
+options = Options()
 
-print(text)
+# Load the custom profile
+options.profile = webdriver.FirefoxProfile(profile_path)
 
-with open("D:/Documents/Python/Scrapping Projects/goodquotes/data/lastrun.txt", "w") as f:
-    f.write(text)
+# Initialize the WebDriver for Firefox using the WebDriver Manager
+driver = webdriver.Firefox(
+    service=Service(GeckoDriverManager().install()), options=options
+)
+
+# Now you can navigate using the custom profile
+driver.get("https://www.goodreads.com")
+
+# Do any automation work
+print(driver.title)
+sleep(300)
+# Close the browser
+driver.quit()

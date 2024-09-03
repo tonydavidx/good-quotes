@@ -4,6 +4,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import os
 import random
 import langid
@@ -59,18 +61,27 @@ while total_pages_scrapped < 50:
     driver.get(url)
     last_page = 1
     try:
-        navigation = driver.find_element(
-            By.XPATH, '//*[@id="bodycontainer"]/div[3]/div[1]/div[2]/div[3]/div[33]'
+        navigation = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located(
+                (
+                    By.CLASS_NAME,
+                    "mainContent ",
+                )
+            )
         )
         all_links = navigation.find_elements(By.TAG_NAME, "a")
-        page_links = [link.get_attribute("href") for link in all_links]
+        all_links = [link.get_attribute("href") for link in all_links]
+        page_links = []
+        for link in all_links:
+            if "page=" in link:
+                page_links.append(link)
+        # print(page_links)
         last_page = page_links[-2].split("=")[-1]
-        # print(last_page)
     except Exception as e:
-        print(f"{url} no pages")
+        print(e)
 
     num_pages = int(last_page)
-
+    print(f"total pages: {num_pages}")
     # Load existing quotes from JSON file
     with open(quotes_file, "r", encoding="utf-8") as f:
         existing_quotes = json.load(f)
@@ -83,11 +94,14 @@ while total_pages_scrapped < 50:
     pages_got = 0
     for i in range(1, num_pages + 1):
         print(f"scrapping page {i} ... out of {num_pages}", end="\r")
-        page_url = f"{url}?page={i}"
-        # print(page_url)
-        driver.get(page_url)
+        page_url = driver.current_url
+        print(page_url)
+        # driver.get(page_url)
         # Find all quote containers on the page
-        quote_containers = driver.find_elements(By.CLASS_NAME, "quote")
+        # quote_containers = driver.find_elements(By.CLASS_NAME, "quote")
+        quote_containers = WebDriverWait(driver, 5).until(
+            EC.visibility_of_all_elements_located((By.CLASS_NAME, "quote"))
+        )
 
         # Extract data from each quote container, the enumerate in the loop is used to get the index of container
         for idx, container in enumerate(quote_containers):
@@ -104,16 +118,16 @@ while total_pages_scrapped < 50:
 
             # Filtering out tags that contain the words "quote" or "quotes"
             tag_names = [tag for tag in tags if "quote" not in tag.lower()]
-
             tag_links = [tag.get_attribute("href") for tag in tag_links][:-1]
-            print(tag_links)
-            sleep(3)
+
+            quote_book_link = None
             try:
                 quote_book_link = container.find_elements(
                     By.CLASS_NAME, "authorOrTitle"
                 )[1].get_attribute("href")
                 # print(quote_book_link)
-                tag_links.append(quote_book_link)
+                if quote_book_link:
+                    tag_links.append(quote_book_link)
             except Exception as e:
                 pass
 
@@ -144,7 +158,11 @@ while total_pages_scrapped < 50:
         total_pages_scrapped += 1
         pages_got += 1
         # print(new_quotes)
-        sleep(randint(3, 10))
+        try:
+            next_page = driver.find_element(By.CLASS_NAME, "next_page").click()
+        except Exception as e:
+            pass
+        sleep(randint(60, 180)) if total_pages_scrapped == 50 else sleep(randint(3, 10))
 
     print(f"\ntotal pages scrapped: {total_pages_scrapped}")
 
