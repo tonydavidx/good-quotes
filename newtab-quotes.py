@@ -18,19 +18,14 @@ from unidecode import unidecode
 from webdriver_manager.firefox import GeckoDriverManager
 
 from get_user_agent import get_user_agent
-from support_files import last_run_time, process_urls, save_newtab_quotes
+from support_files import last_run_time, process_urls
 
 os.chdir("D:/Documents/Python/Scrapping Projects/goodquotes")
-quotes_iwant = (
-    "D:/Documents/Python/Scrapping Projects/goodquotes/data/csv/quotes_iwant.csv"
-)
-scrapped_pages_file = (
-    "D:/Documents/Python/Scrapping Projects/goodquotes/data/csv/scrapped_links.csv"
-)
-quotes_toScrap_file = (
-    "D:/Documents/Python/Scrapping Projects/goodquotes/data/csv/links_toScrap.csv"
-)
-quotes_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/quote_data.json"
+
+scrapped_pages_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/newtab_data/nscrapped_quots_link.csv"
+quotes_toScrap_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/newtab_data/nquotes_links.csv"
+
+quotes_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/newtab_data/newtab_quotes.json"
 
 # profile = "C:/programs/chrome_bot"
 profile_path = "C:/programs/Browerbots/wzxw2qjx.firefoxbot1"
@@ -47,9 +42,6 @@ firefox_options.profile = webdriver.FirefoxProfile(profile_path)
 driver = webdriver.Firefox(
     service=FirefoxService(GeckoDriverManager().install()), options=firefox_options
 )
-# driver = webdriver.Chrome(
-#     service=ChromeService(ChromeDriverManager().install()), options=driver_options
-# )
 
 
 with open(scrapped_pages_file, "r", encoding="utf-8") as f:
@@ -58,19 +50,13 @@ with open(scrapped_pages_file, "r", encoding="utf-8") as f:
 with open(quotes_toScrap_file, "r", encoding="utf-8") as f:
     urls = f.readlines()
 
-with open(quotes_iwant, "r", encoding="utf-8") as f:
-    quotes_want = f.readlines()
-
 my_agent = {"User-Agent": get_user_agent()}
 
 while True:
-    if len(quotes_want) > 0:
-        url = random.choice(quotes_want)
-    else:
-        url = random.choice(urls)
-
+    url = random.choice(urls)
     if url not in scrapped_pages:
         break
+
 driver.get(url)
 last_page = 1
 
@@ -121,48 +107,19 @@ for i in range(num_pages):
         quote = unidecode(quote.split("―")[0].replace("”", "").replace("“", ""))
         author = container.find_element(By.CLASS_NAME, "authorOrTitle").text
         # print(quote, author)
-
-        tags_div = container.find_element(By.CLASS_NAME, "quoteFooter")
-        tag_links = tags_div.find_elements(By.TAG_NAME, "a")
-        tags = [tag.text for tag in tag_links][:-1]
-
-        likes = [tag.text for tag in tag_links][-1].strip(" likes")
-
-        # Filtering out tags that contain the words "quote" or "quotes"
-        tag_names = [tag for tag in tags if "quote" not in tag.lower()]
-        tag_links = [tag.get_attribute("href") for tag in tag_links][:-1]
-
-        quote_book_link = None
-        try:
-            quote_book_link = container.find_elements(By.CLASS_NAME, "authorOrTitle")[
-                1
-            ].get_attribute("href")
-            # print(quote_book_link)
-            if quote_book_link:
-                tag_links.append(quote_book_link)
-        except Exception as e:
-            pass
-
-        for link in tag_links:
-            if link + "\n" not in urls and link + "\n" not in scrapped_pages:
-                urls.append(link + "\n")
-
         # Check if the quote already exists in the existing quotes list
         if not any(ext_quote["quote"] == quote for ext_quote in existing_quotes):
             try:
                 language, confidence = langid.classify(quote)
-                if language == "en":
+                if language == "en" and len(quote) > 300:
                     # Create a dictionary for the quote data and append to the new quotes list
                     quote_data = {
                         "quote": quote,
                         "author": author,
-                        "likes": int(likes),
-                        "tags": tag_names,
-                        "work": quote_book_link if quote_book_link else "",
                     }
                     new_quotes.append(quote_data)
 
-            except Exception as e:  # pylance:ignore
+            except Exception as e:  # pylint:ignore
                 print(e)
 
     pages_got += 1
@@ -180,26 +137,30 @@ print(f"completed scrapping: {url}")
 existing_quotes += new_quotes
 
 if pages_got >= num_pages:
-    if len(quotes_want) > 0:
-        quotes_want.remove(url)
-        with open(quotes_iwant, "w", encoding="utf-8") as f:
-            f.writelines(quotes_want)
-        save_newtab_quotes.save_and_process_quotes(new_quotes)
-    else:
-        urls.remove(url)
-        with open(quotes_toScrap_file, "w", encoding="utf-8") as f:
-            f.writelines(urls)
-    # Save quotes to the JSON file
-    with open(quotes_file, "w", encoding="utf-8") as f:
-        json.dump(existing_quotes, f)
+    urls.remove(url)
+    with open(quotes_toScrap_file, "w", encoding="utf-8") as f:
+        f.writelines(urls)
 
     scrapped_pages.append(url)
 
     with open(scrapped_pages_file, "w", encoding="utf-8") as f:
         f.writelines(scrapped_pages)
+    # Save quotes to the JSON file
+    with open(quotes_file, "w", encoding="utf-8") as f:
+        json.dump(existing_quotes, f)
 
-    process_urls.process_urls(quotes_toScrap_file)
+    with open(
+        "D:/Documents/Software-Projects/my-newtab/public/assets/quotes.json",
+        "w",
+        encoding="utf-8",
+    ) as f:
+        json.dump(existing_quotes, f)
 
-    sleep(10)
+    with open(
+        "D:/Documents/Software-Projects/my-newtab/dist/assets/quotes.json",
+        "w",
+        encoding="utf-8",
+    ) as f:
+        json.dump(existing_quotes, f)
 
 driver.quit()
