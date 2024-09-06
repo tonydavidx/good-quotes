@@ -59,13 +59,13 @@ with open(quotes_toScrap_file, "r", encoding="utf-8") as f:
     urls = f.readlines()
 
 with open(quotes_iwant, "r", encoding="utf-8") as f:
-    quotes_want = f.readlines()
+    quotes_want_links = f.readlines()
 
 my_agent = {"User-Agent": get_user_agent()}
 
 while True:
-    if len(quotes_want) > 0:
-        url = random.choice(quotes_want)
+    if len(quotes_want_links) > 0:
+        url = random.choice(quotes_want_links)
     else:
         url = random.choice(urls)
 
@@ -124,13 +124,23 @@ for i in range(num_pages):
 
         tags_div = container.find_element(By.CLASS_NAME, "quoteFooter")
         tag_links = tags_div.find_elements(By.TAG_NAME, "a")
-        tags = [tag.text for tag in tag_links][:-1]
-
         likes = [tag.text for tag in tag_links][-1].strip(" likes")
 
         # Filtering out tags that contain the words "quote" or "quotes"
-        tag_names = [tag for tag in tags if "quote" not in tag.lower()]
+        tag_names = [tag.text for tag in tag_links][:-1]
         tag_links = [tag.get_attribute("href") for tag in tag_links][:-1]
+
+        for idx, tag in enumerate(tag_names):
+            try:
+                language = langid.classify(tag)
+                if language != "en" or "quote" in tag.lower() or "quotes" in tag.lower():
+                    del tag_names[idx]
+                    del tag_links[idx]
+            except Exception as e:
+                print(e)
+                
+        tag_names = tag_names[:5] if len(tag_names) > 5 else tag_names
+        tag_links = tag_links[:5] if len(tag_links) > 5 else tag_links
 
         quote_book_link = None
         try:
@@ -180,11 +190,13 @@ print(f"completed scrapping: {url}")
 existing_quotes += new_quotes
 
 if pages_got >= num_pages:
-    if len(quotes_want) > 0:
-        quotes_want.remove(url)
+    if len(quotes_want_links) > 0:
+        quotes_want_links.remove(url)
         with open(quotes_iwant, "w", encoding="utf-8") as f:
-            f.writelines(quotes_want)
+            f.writelines(quotes_want_links)
         save_newtab_quotes.save_and_process_quotes(new_quotes)
+        with open(quotes_toScrap_file, "w", encoding="utf-8") as f:
+            f.writelines(urls)
     else:
         urls.remove(url)
         with open(quotes_toScrap_file, "w", encoding="utf-8") as f:

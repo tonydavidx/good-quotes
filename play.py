@@ -26,3 +26,8 @@
 # sleep(300)
 # # Close the browser
 # driver.quit()
+
+my_list = [1, 2, 3, 4, 5, 6]
+
+
+print(len(my_list))
