@@ -40,7 +40,7 @@ profile_path = "C:/programs/Browerbots/wzxw2qjx.firefoxbot1"
 firefox_options = FirefoxOptions()
 firefox_options.set_preference("general.useragent.override", get_user_agent())
 firefox_options.set_preference("permissions.default.image", 2)
-# firefox_options.add_argument('--headless')
+firefox_options.add_argument("--headless")
 firefox_options.profile = webdriver.FirefoxProfile(profile_path)
 
 
@@ -133,12 +133,16 @@ for i in range(num_pages):
         for idx, tag in enumerate(tag_names):
             try:
                 language = langid.classify(tag)
-                if language != "en" or "quote" in tag.lower() or "quotes" in tag.lower():
+                if (
+                    language != "en"
+                    or "quote" in tag.lower()
+                    or "quotes" in tag.lower()
+                ):
                     del tag_names[idx]
                     del tag_links[idx]
             except Exception as e:
                 print(e)
-                
+
         tag_names = tag_names[:5] if len(tag_names) > 5 else tag_names
         tag_links = tag_links[:5] if len(tag_links) > 5 else tag_links
 

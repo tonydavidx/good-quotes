@@ -27,7 +27,12 @@
 # # Close the browser
 # driver.quit()
 
+import langid
+
 my_list = [1, 2, 3, 4, 5, 6]
 
+text = "language"
 
-print(len(my_list))
+text_lang = langid.classify(text)[0]
+
+print(text_lang)
