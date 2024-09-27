@@ -29,10 +29,11 @@
 
 import langid
 
-my_list = [1, 2, 3, 4, 5, 6]
+my_list = ["one", "two-two", "three"]
 
-text = "language"
+for i, name in enumerate(my_list):
+    li_li = name.split("-")
+    if len(li_li) > 1:
+        del my_list[i]
 
-text_lang = langid.classify(text)[0]
-
-print(text_lang)
+print(my_list)

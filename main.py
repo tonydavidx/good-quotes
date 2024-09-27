@@ -32,6 +32,9 @@ quotes_toScrap_file = (
 )
 quotes_file = "D:/Documents/Python/Scrapping Projects/goodquotes/data/quote_data.json"
 
+rejected_quotes_file = (
+    "D:/Documents/Python/Scrapping Projects/goodquotes/data/moved_quotes.json"
+)
 # profile = "C:/programs/chrome_bot"
 profile_path = "C:/programs/Browerbots/wzxw2qjx.firefoxbot1"
 
@@ -40,7 +43,7 @@ profile_path = "C:/programs/Browerbots/wzxw2qjx.firefoxbot1"
 firefox_options = FirefoxOptions()
 firefox_options.set_preference("general.useragent.override", get_user_agent())
 firefox_options.set_preference("permissions.default.image", 2)
-firefox_options.add_argument("--headless")
+# firefox_options.add_argument("--headless")
 firefox_options.profile = webdriver.FirefoxProfile(profile_path)
 
 
@@ -100,6 +103,9 @@ print(f"total pages: {num_pages}")
 with open(quotes_file, "r", encoding="utf-8") as f:
     existing_quotes = json.load(f)
 
+with open(rejected_quotes_file, "r", encoding="utf-8") as f:
+    rejected_quotes = json.load(f)
+
 # List to store new quotes
 new_quotes = []
 print(f"scraping {url}")
@@ -111,7 +117,6 @@ for i in range(num_pages):
     print(page_url)
     # driver.get(page_url)
     # Find all quote containers on the page
-    # quote_containers = driver.find_elements(By.CLASS_NAME, "quote")
     quote_containers = WebDriverWait(driver, 5).until(
         EC.visibility_of_all_elements_located((By.CLASS_NAME, "quote"))
     )
@@ -140,8 +145,15 @@ for i in range(num_pages):
                 ):
                     del tag_names[idx]
                     del tag_links[idx]
+                    print("deleted tag for language", tag)
+
             except Exception as e:
                 print(e)
+
+            tag_split = tag.split("-")
+            if len(tag_split) > 2:
+                del tag_names[idx]
+                print("deleted tag for length", tag)
 
         tag_names = tag_names[:5] if len(tag_names) > 5 else tag_names
         tag_links = tag_links[:5] if len(tag_links) > 5 else tag_links
@@ -162,18 +174,21 @@ for i in range(num_pages):
                 urls.append(link + "\n")
 
         # Check if the quote already exists in the existing quotes list
-        if not any(ext_quote["quote"] == quote for ext_quote in existing_quotes):
+        if not any(
+            ext_quote["quote"] == quote for ext_quote in existing_quotes
+        ) and not any(rej_quote["quote"] == quote for rej_quote in rejected_quotes):
             try:
                 language, confidence = langid.classify(quote)
                 if language == "en":
-                    # Create a dictionary for the quote data and append to the new quotes list
                     quote_data = {
                         "quote": quote,
                         "author": author,
                         "likes": int(likes),
-                        "tags": tag_names,
-                        "work": quote_book_link if quote_book_link else "",
                     }
+                    if len(tag_names) > 0:
+                        quote_data["tags"] = tag_names
+                    if quote_book_link is not None:
+                        quote_data["work"] = quote_book_link
                     new_quotes.append(quote_data)
 
             except Exception as e:  # pylance:ignore
@@ -189,7 +204,7 @@ for i in range(num_pages):
     sleep(randint(3, 10))
 
 
-print(f"completed scrapping: {url}")
+print(f"completed scrapping: {url}", end="\r")
 # Append new quotes to existing quotes list
 existing_quotes += new_quotes
 
@@ -216,6 +231,5 @@ if pages_got >= num_pages:
 
     process_urls.process_urls(quotes_toScrap_file)
 
-    sleep(10)
 
 driver.quit()
