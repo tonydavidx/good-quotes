@@ -18,7 +18,12 @@ from unidecode import unidecode
 from webdriver_manager.firefox import GeckoDriverManager
 
 from get_user_agent import get_user_agent
-from support_files import last_run_time, process_urls, save_newtab_quotes
+from support_files import (
+    detect_language,
+    last_run_time,
+    process_urls,
+    save_newtab_quotes,
+)
 
 os.chdir("D:/Documents/Python/Scrapping Projects/goodquotes")
 quotes_iwant = (
@@ -108,13 +113,13 @@ with open(rejected_quotes_file, "r", encoding="utf-8") as f:
 
 # List to store new quotes
 new_quotes = []
-print(f"scraping {url}")
+# print(f"scraping {url}")
 # Loop through each page and scrape quotes
 pages_got = 0
 for i in range(num_pages):
-    print(f"scrapping page {i} ... out of {num_pages}", end="\r")
+    # print(f"scrapping page {i} ... out of {num_pages}", end="\r")
     page_url = driver.current_url
-    print(page_url)
+    print(page_url + "\n", end="\r")
     # driver.get(page_url)
     # Find all quote containers on the page
     quote_containers = WebDriverWait(driver, 5).until(
@@ -137,23 +142,24 @@ for i in range(num_pages):
 
         for idx, tag in enumerate(tag_names):
             try:
-                language = langid.classify(tag)
-                if (
-                    language != "en"
-                    or "quote" in tag.lower()
-                    or "quotes" in tag.lower()
-                ):
+                language = detect_language.check_char_lang(tag)
+                if language == False:
                     del tag_names[idx]
                     del tag_links[idx]
                     print("deleted tag for language", tag)
-
             except Exception as e:
                 print(e)
 
-            tag_split = tag.split("-")
-            if len(tag_split) > 2:
-                del tag_names[idx]
-                print("deleted tag for length", tag)
+                if len(tag_names) > 1:
+                    tag_split = tag.split("-")
+                    if (
+                        "quote" in tag.lower()
+                        or "quotes" in tag.lower()
+                        or len(tag_split) > 3
+                    ):
+                        del tag_names[idx]
+                        print("deleted tag for quote or length", tag)
+                    # print(tag_split, len(tag_split))
 
         tag_names = tag_names[:5] if len(tag_names) > 5 else tag_names
         tag_links = tag_links[:5] if len(tag_links) > 5 else tag_links
@@ -204,7 +210,7 @@ for i in range(num_pages):
     sleep(randint(3, 10))
 
 
-print(f"completed scrapping: {url}", end="\r")
+print(f"completed scrapping: {url}")
 # Append new quotes to existing quotes list
 existing_quotes += new_quotes
 
@@ -213,7 +219,7 @@ if pages_got >= num_pages:
         quotes_want_links.remove(url)
         with open(quotes_iwant, "w", encoding="utf-8") as f:
             f.writelines(quotes_want_links)
-        save_newtab_quotes.save_and_process_quotes(new_quotes)
+        # save_newtab_quotes.save_and_process_quotes(new_quotes)
         with open(quotes_toScrap_file, "w", encoding="utf-8") as f:
             f.writelines(urls)
     else:

@@ -1,8 +1,8 @@
-def check_english_chars(s):
-    non_english_count = 0
+def check_char_lang(s):
     for char in s:
         if not char.isascii():
-            non_english_count += 1
-            if non_english_count > 5:
-                return False
+            return False
     return True
+
+
+# print(check_english_chars("spending-money"))
